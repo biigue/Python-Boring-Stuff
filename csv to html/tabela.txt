@@ -1,49 +1,5 @@
 	<tr>
 <!-- Janeiro -->
-	<td> R$ 277.849,00 </td>
-	<td>695</td>
-	<td>28</td>
-	<td></td>
-	<td></td>
-	<td>723</td>
-<!-- Fevereiro -->
-	<td> R$ 201.654,00 </td>
-	<td>504</td>
-	<td>20</td>
-	<td></td>
-	<td></td>
-	<td>524</td>
-<!-- Março -->
-	<td> R$ 213.788,00 </td>
-	<td>534</td>
-	<td>27</td>
-	<td></td>
-	<td></td>
-	<td>561</td>
-<!-- Abril -->
-	<td> R$ 246.808,20 </td>
-	<td>617</td>
-	<td>19</td>
-	<td></td>
-	<td></td>
-	<td>636</td>
-<!-- Maio -->
-	<td> R$ 117.861,00 </td>
-	<td>295</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>306</td>
-<!-- Total -->
-	<td> R$ 1.057.960,20 </td>
-	<td>2645</td>
-	<td>105</td>
-	<td></td>
-	<td></td>
-	<td>2750</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
 	<td> R$ 234.191,00 </td>
 	<td>585</td>
 	<td>24</td>
@@ -78,13 +34,71 @@
 	<td></td>
 	<td></td>
 	<td>442</td>
+<!-- Junho -->
+	<td> R$ 180.755,36 </td>
+	<td>452</td>
+	<td>20</td>
+	<td></td>
+	<td></td>
+	<td>472</td>
 <!-- Total -->
-	<td> R$ 1.003.037,03 </td>
-	<td>2508</td>
-	<td>111</td>
+	<td> R$ 1.183.792,39 </td>
+	<td>2959</td>
+	<td>131</td>
 	<td></td>
 	<td></td>
-	<td>2619</td>
+	<td>3090</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 277.849,00 </td>
+	<td>695</td>
+	<td>28</td>
+	<td></td>
+	<td></td>
+	<td>723</td>
+<!-- Fevereiro -->
+	<td> R$ 201.654,00 </td>
+	<td>504</td>
+	<td>20</td>
+	<td></td>
+	<td></td>
+	<td>524</td>
+<!-- Março -->
+	<td> R$ 213.788,00 </td>
+	<td>534</td>
+	<td>27</td>
+	<td></td>
+	<td></td>
+	<td>561</td>
+<!-- Abril -->
+	<td> R$ 246.808,20 </td>
+	<td>617</td>
+	<td>19</td>
+	<td></td>
+	<td></td>
+	<td>636</td>
+<!-- Maio -->
+	<td> R$ 117.861,00 </td>
+	<td>295</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>306</td>
+<!-- Junho -->
+	<td> R$ 104.145,36 </td>
+	<td>261</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>270</td>
+<!-- Total -->
+	<td> R$ 1.162.105,56 </td>
+	<td>2905</td>
+	<td>114</td>
+	<td></td>
+	<td></td>
+	<td>3019</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -122,277 +136,20 @@
 	<td></td>
 	<td></td>
 	<td>208</td>
-<!-- Total -->
-	<td> R$ 972.378,34 </td>
-	<td>2431</td>
-	<td>98</td>
-	<td></td>
-	<td></td>
-	<td>2529</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 209.390,00 </td>
-	<td>523</td>
-	<td>25</td>
-	<td></td>
-	<td></td>
-	<td>548</td>
-<!-- Fevereiro -->
-	<td> R$ 84.315,00 </td>
-	<td>211</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>220</td>
-<!-- Março -->
-	<td> R$ 185.415,88 </td>
-	<td>463</td>
+<!-- Junho -->
+	<td> R$ 6.604,00 </td>
 	<td>17</td>
+	<td>1</td>
 	<td></td>
 	<td></td>
-	<td>480</td>
-<!-- Abril -->
-	<td> R$ 85.485,68 </td>
-	<td>214</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>223</td>
-<!-- Maio -->
-	<td> R$ 138.704,78 </td>
-	<td>347</td>
-	<td>13</td>
-	<td></td>
-	<td></td>
-	<td>360</td>
+	<td>18</td>
 <!-- Total -->
-	<td> R$ 703.311,34 </td>
-	<td>1758</td>
-	<td>73</td>
+	<td> R$ 978.982,34 </td>
+	<td>2447</td>
+	<td>99</td>
 	<td></td>
 	<td></td>
-	<td>1831</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 213.385,00 </td>
-	<td>0</td>
-	<td>22</td>
-	<td></td>
-	<td></td>
-	<td>22</td>
-<!-- Fevereiro -->
-	<td> R$ 38.841,00 </td>
-	<td>97</td>
-	<td>4</td>
-	<td></td>
-	<td></td>
-	<td>101</td>
-<!-- Março -->
-	<td> R$ 126.307,99 </td>
-	<td>315</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>327</td>
-<!-- Abril -->
-	<td> R$ 43.675,11 </td>
-	<td>109</td>
-	<td>6</td>
-	<td></td>
-	<td></td>
-	<td>115</td>
-<!-- Maio -->
-	<td> R$ 177.132,00 </td>
-	<td>443</td>
-	<td>21</td>
-	<td></td>
-	<td></td>
-	<td>464</td>
-<!-- Total -->
-	<td> R$ 599.341,10 </td>
-	<td>1498</td>
-	<td>65</td>
-	<td></td>
-	<td></td>
-	<td>1498</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 108.267,00 </td>
-	<td>271</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>282</td>
-<!-- Fevereiro -->
-	<td> R$ 15.826,00 </td>
-	<td>40</td>
-	<td>2</td>
-	<td></td>
-	<td></td>
-	<td>42</td>
-<!-- Março -->
-	<td> R$ 169.984,20 </td>
-	<td>424</td>
-	<td>14</td>
-	<td></td>
-	<td></td>
-	<td>438</td>
-<!-- Abril -->
-	<td> R$ 42.292,00 </td>
-	<td>106</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>111</td>
-<!-- Maio -->
-	<td> R$ 209.995,24 </td>
-	<td>525</td>
-	<td>23</td>
-	<td></td>
-	<td></td>
-	<td>548</td>
-<!-- Total -->
-	<td> R$ 546.364,44 </td>
-	<td>1366</td>
-	<td>55</td>
-	<td></td>
-	<td></td>
-	<td>1421</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 81.933,00 </td>
-	<td>205</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>216</td>
-<!-- Fevereiro -->
-	<td> R$ 140.100,00 </td>
-	<td>350</td>
-	<td>13</td>
-	<td></td>
-	<td></td>
-	<td>363</td>
-<!-- Março -->
-	<td> R$ 48.059,26 </td>
-	<td>120</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>125</td>
-<!-- Abril -->
-	<td> R$ 186.126,10 </td>
-	<td>465</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>477</td>
-<!-- Maio -->
-	<td> R$ 81.013,20 </td>
-	<td>203</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>212</td>
-<!-- Total -->
-	<td> R$ 537.231,56 </td>
-	<td>1343</td>
-	<td>50</td>
-	<td></td>
-	<td></td>
-	<td>1393</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 164.661,00 </td>
-	<td>412</td>
-	<td>16</td>
-	<td></td>
-	<td></td>
-	<td>428</td>
-<!-- Fevereiro -->
-	<td> R$ 106.725,00 </td>
-	<td>267</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>279</td>
-<!-- Março -->
-	<td> R$ 86.495,40 </td>
-	<td>216</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>226</td>
-<!-- Abril -->
-	<td> R$ 62.863,00 </td>
-	<td>157</td>
-	<td>6</td>
-	<td></td>
-	<td></td>
-	<td>163</td>
-<!-- Maio -->
-	<td> R$ 100.368,00 </td>
-	<td>251</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>262</td>
-<!-- Total -->
-	<td> R$ 521.112,40 </td>
-	<td>1303</td>
-	<td>55</td>
-	<td></td>
-	<td></td>
-	<td>1358</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 105.534,00 </td>
-	<td>264</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>276</td>
-<!-- Fevereiro -->
-	<td> R$ 56.083,00 </td>
-	<td>140</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>147</td>
-<!-- Março -->
-	<td> R$ 107.331,26 </td>
-	<td>268</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>278</td>
-<!-- Abril -->
-	<td> R$ 125.360,58 </td>
-	<td>313</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>325</td>
-<!-- Maio -->
-	<td> R$ 125.561,70 </td>
-	<td>314</td>
-	<td>14</td>
-	<td></td>
-	<td></td>
-	<td>328</td>
-<!-- Total -->
-	<td> R$ 519.870,54 </td>
-	<td>1300</td>
-	<td>55</td>
-	<td></td>
-	<td></td>
-	<td>1355</td>
+	<td>2546</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -430,101 +187,173 @@
 	<td></td>
 	<td></td>
 	<td>788</td>
+<!-- Junho -->
+	<td> R$ 226.200,12 </td>
+	<td>566</td>
+	<td>23</td>
+	<td></td>
+	<td></td>
+	<td>589</td>
 <!-- Total -->
-	<td> R$ 526.530,85 </td>
-	<td>1316</td>
-	<td>49</td>
+	<td> R$ 752.730,97 </td>
+	<td>1882</td>
+	<td>72</td>
 	<td></td>
 	<td></td>
-	<td>1316</td>
+	<td>1882</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
-	<td> R$ 83.121,00 </td>
-	<td>208</td>
+	<td> R$ 81.933,00 </td>
+	<td>205</td>
 	<td>11</td>
 	<td></td>
 	<td></td>
-	<td>219</td>
-<!-- Fevereiro -->
-	<td> R$ 91.753,00 </td>
-	<td>229</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>238</td>
-<!-- Março -->
-	<td> R$ 64.947,40 </td>
-	<td>162</td>
-	<td>8</td>
-	<td></td>
-	<td></td>
-	<td>170</td>
-<!-- Abril -->
-	<td> R$ 171.522,64 </td>
-	<td>429</td>
-	<td>16</td>
-	<td></td>
-	<td></td>
-	<td>445</td>
-<!-- Maio -->
-	<td> R$ 83.913,60 </td>
-	<td>210</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>219</td>
-<!-- Total -->
-	<td> R$ 495.257,64 </td>
-	<td>1238</td>
-	<td>53</td>
-	<td></td>
-	<td></td>
-	<td>1291</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 86.568,00 </td>
 	<td>216</td>
-	<td>8</td>
-	<td></td>
-	<td></td>
-	<td>224</td>
 <!-- Fevereiro -->
-	<td> R$ 138.720,00 </td>
-	<td>347</td>
-	<td>18</td>
+	<td> R$ 140.100,00 </td>
+	<td>350</td>
+	<td>13</td>
 	<td></td>
 	<td></td>
-	<td>365</td>
+	<td>363</td>
 <!-- Março -->
-	<td> R$ 111.792,01 </td>
-	<td>279</td>
+	<td> R$ 48.059,26 </td>
+	<td>120</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>125</td>
+<!-- Abril -->
+	<td> R$ 186.126,10 </td>
+	<td>465</td>
 	<td>12</td>
 	<td></td>
 	<td></td>
-	<td>291</td>
-<!-- Abril -->
-	<td> R$ 65.596,05 </td>
-	<td>164</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>171</td>
+	<td>477</td>
 <!-- Maio -->
-	<td> R$ 91.633,74 </td>
-	<td>230</td>
+	<td> R$ 81.013,20 </td>
+	<td>203</td>
 	<td>9</td>
 	<td></td>
 	<td></td>
-	<td>239</td>
+	<td>212</td>
+<!-- Junho -->
+	<td> R$ 190.648,36 </td>
+	<td>477</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>489</td>
 <!-- Total -->
-	<td> R$ 494.309,80 </td>
-	<td>1236</td>
-	<td>54</td>
+	<td> R$ 727.879,92 </td>
+	<td>1820</td>
+	<td>62</td>
 	<td></td>
 	<td></td>
-	<td>1290</td>
+	<td>1882</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 209.390,00 </td>
+	<td>523</td>
+	<td>25</td>
+	<td></td>
+	<td></td>
+	<td>548</td>
+<!-- Fevereiro -->
+	<td> R$ 84.315,00 </td>
+	<td>211</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>220</td>
+<!-- Março -->
+	<td> R$ 185.415,88 </td>
+	<td>463</td>
+	<td>17</td>
+	<td></td>
+	<td></td>
+	<td>480</td>
+<!-- Abril -->
+	<td> R$ 85.485,68 </td>
+	<td>214</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>223</td>
+<!-- Maio -->
+	<td> R$ 138.704,78 </td>
+	<td>347</td>
+	<td>13</td>
+	<td></td>
+	<td></td>
+	<td>360</td>
+<!-- Junho -->
+	<td> R$ </td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Total -->
+	<td> R$ 703.311,34 </td>
+	<td>1758</td>
+	<td>73</td>
+	<td></td>
+	<td></td>
+	<td>1831</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 108.267,00 </td>
+	<td>271</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>282</td>
+<!-- Fevereiro -->
+	<td> R$ 15.826,00 </td>
+	<td>40</td>
+	<td>2</td>
+	<td></td>
+	<td></td>
+	<td>42</td>
+<!-- Março -->
+	<td> R$ 169.984,20 </td>
+	<td>424</td>
+	<td>14</td>
+	<td></td>
+	<td></td>
+	<td>438</td>
+<!-- Abril -->
+	<td> R$ 42.292,00 </td>
+	<td>106</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>111</td>
+<!-- Maio -->
+	<td> R$ 209.995,24 </td>
+	<td>525</td>
+	<td>23</td>
+	<td></td>
+	<td></td>
+	<td>548</td>
+<!-- Junho -->
+	<td> R$ 107.696,72 </td>
+	<td>270</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>280</td>
+<!-- Total -->
+	<td> R$ 654.061,16 </td>
+	<td>1635</td>
+	<td>65</td>
+	<td></td>
+	<td></td>
+	<td>1700</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -562,57 +391,173 @@
 	<td></td>
 	<td></td>
 	<td>317</td>
+<!-- Junho -->
+	<td> R$ 200.722,39 </td>
+	<td>502</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>514</td>
 <!-- Total -->
-	<td> R$ 457.705,68 </td>
-	<td>1144</td>
-	<td>41</td>
+	<td> R$ 658.428,07 </td>
+	<td>1646</td>
+	<td>53</td>
 	<td></td>
 	<td></td>
-	<td>1185</td>
+	<td>1699</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
-	<td> R$ 73.012,00 </td>
-	<td>183</td>
-	<td>10</td>
+	<td> R$ 213.385,00 </td>
+	<td>0</td>
+	<td>22</td>
 	<td></td>
 	<td></td>
-	<td>193</td>
+	<td>22</td>
 <!-- Fevereiro -->
-	<td> R$ 83.553,00 </td>
-	<td>209</td>
+	<td> R$ 38.841,00 </td>
+	<td>97</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>101</td>
+<!-- Março -->
+	<td> R$ 126.307,99 </td>
+	<td>315</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>327</td>
+<!-- Abril -->
+	<td> R$ 43.675,11 </td>
+	<td>109</td>
+	<td>6</td>
+	<td></td>
+	<td></td>
+	<td>115</td>
+<!-- Maio -->
+	<td> R$ 177.132,00 </td>
+	<td>443</td>
+	<td>21</td>
+	<td></td>
+	<td></td>
+	<td>464</td>
+<!-- Junho -->
+	<td> R$ 42.360,72 </td>
+	<td>106</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>111</td>
+<!-- Total -->
+	<td> R$ 641.701,82 </td>
+	<td>1604</td>
+	<td>70</td>
+	<td></td>
+	<td></td>
+	<td>1604</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 164.661,00 </td>
+	<td>412</td>
+	<td>16</td>
+	<td></td>
+	<td></td>
+	<td>428</td>
+<!-- Fevereiro -->
+	<td> R$ 106.725,00 </td>
+	<td>267</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>279</td>
+<!-- Março -->
+	<td> R$ 86.495,40 </td>
+	<td>216</td>
 	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>226</td>
+<!-- Abril -->
+	<td> R$ 62.863,00 </td>
+	<td>157</td>
+	<td>6</td>
+	<td></td>
+	<td></td>
+	<td>163</td>
+<!-- Maio -->
+	<td> R$ 100.368,00 </td>
+	<td>251</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>262</td>
+<!-- Junho -->
+	<td> R$ 68.776,72 </td>
+	<td>172</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>181</td>
+<!-- Total -->
+	<td> R$ 589.889,12 </td>
+	<td>1475</td>
+	<td>64</td>
+	<td></td>
+	<td></td>
+	<td>1539</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 83.121,00 </td>
+	<td>208</td>
+	<td>11</td>
 	<td></td>
 	<td></td>
 	<td>219</td>
+<!-- Fevereiro -->
+	<td> R$ 91.753,00 </td>
+	<td>229</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>238</td>
 <!-- Março -->
-	<td> R$ 75.507,00 </td>
-	<td>188</td>
-	<td>9</td>
+	<td> R$ 64.947,40 </td>
+	<td>162</td>
+	<td>8</td>
 	<td></td>
 	<td></td>
-	<td>197</td>
+	<td>170</td>
 <!-- Abril -->
-	<td> R$ 74.687,68 </td>
-	<td>187</td>
+	<td> R$ 171.522,64 </td>
+	<td>429</td>
+	<td>16</td>
+	<td></td>
+	<td></td>
+	<td>445</td>
+<!-- Maio -->
+	<td> R$ 83.913,60 </td>
+	<td>210</td>
 	<td>9</td>
 	<td></td>
 	<td></td>
-	<td>196</td>
-<!-- Maio -->
-	<td> R$ 111.789,68 </td>
-	<td>280</td>
-	<td>10</td>
+	<td>219</td>
+<!-- Junho -->
+	<td> R$ 72.018,64 </td>
+	<td>180</td>
+	<td>9</td>
 	<td></td>
 	<td></td>
-	<td>290</td>
+	<td>189</td>
 <!-- Total -->
-	<td> R$ 418.549,36 </td>
-	<td>1046</td>
-	<td>48</td>
+	<td> R$ 567.276,28 </td>
+	<td>1418</td>
+	<td>62</td>
 	<td></td>
 	<td></td>
-	<td>1094</td>
+	<td>1480</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -650,145 +595,173 @@
 	<td></td>
 	<td></td>
 	<td>59</td>
+<!-- Junho -->
+	<td> R$ 123.250,84 </td>
+	<td>309</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>321</td>
 <!-- Total -->
-	<td> R$ 418.746,00 </td>
-	<td>1047</td>
-	<td>40</td>
+	<td> R$ 541.996,84 </td>
+	<td>1355</td>
+	<td>52</td>
 	<td></td>
 	<td></td>
-	<td>1087</td>
+	<td>1407</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
-	<td> R$ 58.057,00 </td>
-	<td>145</td>
+	<td> R$ 86.568,00 </td>
+	<td>216</td>
+	<td>8</td>
+	<td></td>
+	<td></td>
+	<td>224</td>
+<!-- Fevereiro -->
+	<td> R$ 138.720,00 </td>
+	<td>347</td>
+	<td>18</td>
+	<td></td>
+	<td></td>
+	<td>365</td>
+<!-- Março -->
+	<td> R$ 111.792,01 </td>
+	<td>279</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>291</td>
+<!-- Abril -->
+	<td> R$ 65.596,05 </td>
+	<td>164</td>
 	<td>7</td>
 	<td></td>
 	<td></td>
-	<td>152</td>
+	<td>171</td>
+<!-- Maio -->
+	<td> R$ 91.633,74 </td>
+	<td>230</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>239</td>
+<!-- Junho -->
+	<td> R$ 37.729,00 </td>
+	<td>95</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>99</td>
+<!-- Total -->
+	<td> R$ 532.038,80 </td>
+	<td>1330</td>
+	<td>58</td>
+	<td></td>
+	<td></td>
+	<td>1388</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 105.534,00 </td>
+	<td>264</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>276</td>
 <!-- Fevereiro -->
-	<td> R$ 75.283,00 </td>
+	<td> R$ 56.083,00 </td>
+	<td>140</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>147</td>
+<!-- Março -->
+	<td> R$ 107.331,26 </td>
+	<td>268</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>278</td>
+<!-- Abril -->
+	<td> R$ 125.360,58 </td>
+	<td>313</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>325</td>
+<!-- Maio -->
+	<td> R$ 125.561,70 </td>
+	<td>314</td>
+	<td>14</td>
+	<td></td>
+	<td></td>
+	<td>328</td>
+<!-- Junho -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Total -->
+	<td> R$ 519.870,54 </td>
+	<td>1300</td>
+	<td>55</td>
+	<td></td>
+	<td></td>
+	<td>1355</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 73.012,00 </td>
+	<td>183</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>193</td>
+<!-- Fevereiro -->
+	<td> R$ 83.553,00 </td>
+	<td>209</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>219</td>
+<!-- Março -->
+	<td> R$ 75.507,00 </td>
 	<td>188</td>
 	<td>9</td>
 	<td></td>
 	<td></td>
 	<td>197</td>
-<!-- Março -->
-	<td> R$ 42.278,20 </td>
-	<td>105</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>110</td>
 <!-- Abril -->
-	<td> R$ 160.130,00 </td>
-	<td>400</td>
-	<td>17</td>
-	<td></td>
-	<td></td>
-	<td>417</td>
-<!-- Maio -->
-	<td> R$ 72.491,60 </td>
-	<td>182</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>191</td>
-<!-- Total -->
-	<td> R$ 408.239,80 </td>
-	<td>1021</td>
-	<td>47</td>
-	<td></td>
-	<td></td>
-	<td>1068</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 97.641,00 </td>
-	<td>244</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>255</td>
-<!-- Fevereiro -->
-	<td> R$ 82.220,00 </td>
-	<td>206</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>215</td>
-<!-- Março -->
-	<td> R$ 13.543,20 </td>
-	<td>33</td>
-	<td>2</td>
-	<td></td>
-	<td></td>
-	<td>35</td>
-<!-- Abril -->
-	<td> R$ 87.008,84 </td>
-	<td>218</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>228</td>
-<!-- Maio -->
-	<td> R$ 119.178,12 </td>
-	<td>298</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>309</td>
-<!-- Total -->
-	<td> R$ 399.591,16 </td>
-	<td>999</td>
-	<td>43</td>
-	<td></td>
-	<td></td>
-	<td>1042</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 80.678,00 </td>
-	<td>202</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>212</td>
-<!-- Fevereiro -->
-	<td> R$ 68.098,00 </td>
-	<td>170</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>179</td>
-<!-- Março -->
-	<td> R$ 120.262,02 </td>
-	<td>300</td>
-	<td>13</td>
-	<td></td>
-	<td></td>
-	<td>313</td>
-<!-- Abril -->
-	<td> R$ 33.566,40 </td>
-	<td>84</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>89</td>
-<!-- Maio -->
-	<td> R$ 71.085,00 </td>
-	<td>178</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
+	<td> R$ 74.687,68 </td>
 	<td>187</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>196</td>
+<!-- Maio -->
+	<td> R$ 111.789,68 </td>
+	<td>280</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>290</td>
+<!-- Junho -->
+	<td> R$ 86.188,82 </td>
+	<td>216</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>223</td>
 <!-- Total -->
-	<td> R$ 373.689,42 </td>
-	<td>934</td>
-	<td>46</td>
+	<td> R$ 504.738,18 </td>
+	<td>1262</td>
+	<td>55</td>
 	<td></td>
 	<td></td>
-	<td>980</td>
+	<td>1317</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -826,13 +799,326 @@
 	<td></td>
 	<td></td>
 	<td>197</td>
+<!-- Junho -->
+	<td> R$ 105.653,99 </td>
+	<td>265</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>276</td>
 <!-- Total -->
-	<td> R$ 351.452,05 </td>
-	<td>879</td>
-	<td>44</td>
+	<td> R$ 457.106,04 </td>
+	<td>1143</td>
+	<td>55</td>
 	<td></td>
 	<td></td>
-	<td>923</td>
+	<td>1198</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 106.436,00 </td>
+	<td>266</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>278</td>
+<!-- Fevereiro -->
+	<td> R$ 63.349,00 </td>
+	<td>158</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>167</td>
+<!-- Março -->
+	<td> R$ 66.886,56 </td>
+	<td>167</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>176</td>
+<!-- Abril -->
+	<td> R$ 32.158,00 </td>
+	<td>80</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>84</td>
+<!-- Maio -->
+	<td> R$ 59.852,40 </td>
+	<td>150</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>157</td>
+<!-- Junho -->
+	<td> R$ 103.766,00 </td>
+	<td>260</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>271</td>
+<!-- Total -->
+	<td> R$ 432.447,96 </td>
+	<td>1081</td>
+	<td>52</td>
+	<td></td>
+	<td></td>
+	<td>1133</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 58.057,00 </td>
+	<td>145</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>152</td>
+<!-- Fevereiro -->
+	<td> R$ 75.283,00 </td>
+	<td>188</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>197</td>
+<!-- Março -->
+	<td> R$ 42.278,20 </td>
+	<td>105</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>110</td>
+<!-- Abril -->
+	<td> R$ 160.130,00 </td>
+	<td>400</td>
+	<td>17</td>
+	<td></td>
+	<td></td>
+	<td>417</td>
+<!-- Maio -->
+	<td> R$ 72.491,60 </td>
+	<td>182</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>191</td>
+<!-- Junho -->
+	<td> R$ 19.812,00 </td>
+	<td>50</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>53</td>
+<!-- Total -->
+	<td> R$ 428.051,80 </td>
+	<td>1070</td>
+	<td>50</td>
+	<td></td>
+	<td></td>
+	<td>1120</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 97.641,00 </td>
+	<td>244</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>255</td>
+<!-- Fevereiro -->
+	<td> R$ 82.220,00 </td>
+	<td>206</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>215</td>
+<!-- Março -->
+	<td> R$ 13.543,20 </td>
+	<td>33</td>
+	<td>2</td>
+	<td></td>
+	<td></td>
+	<td>35</td>
+<!-- Abril -->
+	<td> R$ 87.008,84 </td>
+	<td>218</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>228</td>
+<!-- Maio -->
+	<td> R$ 119.178,12 </td>
+	<td>298</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>309</td>
+<!-- Junho -->
+	<td> R$ 21.595,08 </td>
+	<td>54</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>57</td>
+<!-- Total -->
+	<td> R$ 421.186,24 </td>
+	<td>1053</td>
+	<td>46</td>
+	<td></td>
+	<td></td>
+	<td>1099</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Fevereiro -->
+	<td> R$ 6.480,00 </td>
+	<td>16</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>17</td>
+<!-- Março -->
+	<td> R$ 72.692,68 </td>
+	<td>181</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>190</td>
+<!-- Abril -->
+	<td> R$ 50.209,20 </td>
+	<td>126</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>133</td>
+<!-- Maio -->
+	<td> R$ 72.159,62 </td>
+	<td>181</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>190</td>
+<!-- Junho -->
+	<td> R$ 200.847,93 </td>
+	<td>503</td>
+	<td>15</td>
+	<td></td>
+	<td></td>
+	<td>518</td>
+<!-- Total -->
+	<td> R$ 402.389,43 </td>
+	<td>1006</td>
+	<td>41</td>
+	<td></td>
+	<td></td>
+	<td>1047</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 80.678,00 </td>
+	<td>202</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>212</td>
+<!-- Fevereiro -->
+	<td> R$ 68.098,00 </td>
+	<td>170</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>179</td>
+<!-- Março -->
+	<td> R$ 120.262,02 </td>
+	<td>300</td>
+	<td>13</td>
+	<td></td>
+	<td></td>
+	<td>313</td>
+<!-- Abril -->
+	<td> R$ 33.566,40 </td>
+	<td>84</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>89</td>
+<!-- Maio -->
+	<td> R$ 71.085,00 </td>
+	<td>178</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>187</td>
+<!-- Junho -->
+	<td> R$ 23.888,00 </td>
+	<td>60</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>63</td>
+<!-- Total -->
+	<td> R$ 397.577,42 </td>
+	<td>994</td>
+	<td>49</td>
+	<td></td>
+	<td></td>
+	<td>1043</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 89.955,00 </td>
+	<td>225</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>235</td>
+<!-- Fevereiro -->
+	<td> R$ 42.551,00 </td>
+	<td>106</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>111</td>
+<!-- Março -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Abril -->
+	<td> R$ 59.595,22 </td>
+	<td>149</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>156</td>
+<!-- Maio -->
+	<td> R$ 119.082,55 </td>
+	<td>298</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>308</td>
+<!-- Junho -->
+	<td> R$ 49.911,18 </td>
+	<td>125</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>129</td>
+<!-- Total -->
+	<td> R$ 361.094,95 </td>
+	<td>903</td>
+	<td>36</td>
+	<td></td>
+	<td></td>
+	<td>939</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -870,10 +1156,68 @@
 	<td></td>
 	<td></td>
 	<td>201</td>
+<!-- Junho -->
+	<td> R$ 8.951,00 </td>
+	<td>23</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>24</td>
 <!-- Total -->
-	<td> R$ 351.770,28 </td>
-	<td>879</td>
-	<td>33</td>
+	<td> R$ 360.721,28 </td>
+	<td>902</td>
+	<td>34</td>
+	<td></td>
+	<td></td>
+	<td>936</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 94.355,00 </td>
+	<td>236</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>247</td>
+<!-- Fevereiro -->
+	<td> R$ 22.306,00 </td>
+	<td>56</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>59</td>
+<!-- Março -->
+	<td> R$ 69.221,02 </td>
+	<td>173</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>180</td>
+<!-- Abril -->
+	<td> R$ 71.055,88 </td>
+	<td>178</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>185</td>
+<!-- Maio -->
+	<td> R$ 45.943,20 </td>
+	<td>115</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>122</td>
+<!-- Junho -->
+	<td> R$ 46.586,00 </td>
+	<td>117</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>120</td>
+<!-- Total -->
+	<td> R$ 349.467,10 </td>
+	<td>874</td>
+	<td>38</td>
 	<td></td>
 	<td></td>
 	<td>912</td>
@@ -914,6 +1258,13 @@
 	<td></td>
 	<td></td>
 	<td>175</td>
+<!-- Junho -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>0</td>
 <!-- Total -->
 	<td> R$ 345.517,72 </td>
 	<td>864</td>
@@ -921,138 +1272,6 @@
 	<td></td>
 	<td></td>
 	<td>893</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 106.436,00 </td>
-	<td>266</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>278</td>
-<!-- Fevereiro -->
-	<td> R$ 63.349,00 </td>
-	<td>158</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>167</td>
-<!-- Março -->
-	<td> R$ 66.886,56 </td>
-	<td>167</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>176</td>
-<!-- Abril -->
-	<td> R$ 32.158,00 </td>
-	<td>80</td>
-	<td>4</td>
-	<td></td>
-	<td></td>
-	<td>84</td>
-<!-- Maio -->
-	<td> R$ 59.852,40 </td>
-	<td>150</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>157</td>
-<!-- Total -->
-	<td> R$ 328.681,96 </td>
-	<td>822</td>
-	<td>41</td>
-	<td></td>
-	<td></td>
-	<td>863</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 89.955,00 </td>
-	<td>225</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>235</td>
-<!-- Fevereiro -->
-	<td> R$ 42.551,00 </td>
-	<td>106</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>111</td>
-<!-- Março -->
-	<td> R$ -   </td>
-	<td>0</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td>0</td>
-<!-- Abril -->
-	<td> R$ 59.595,22 </td>
-	<td>149</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>156</td>
-<!-- Maio -->
-	<td> R$ 119.082,55 </td>
-	<td>298</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>308</td>
-<!-- Total -->
-	<td> R$ 311.183,77 </td>
-	<td>778</td>
-	<td>32</td>
-	<td></td>
-	<td></td>
-	<td>810</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 94.355,00 </td>
-	<td>236</td>
-	<td>11</td>
-	<td></td>
-	<td></td>
-	<td>247</td>
-<!-- Fevereiro -->
-	<td> R$ 22.306,00 </td>
-	<td>56</td>
-	<td>3</td>
-	<td></td>
-	<td></td>
-	<td>59</td>
-<!-- Março -->
-	<td> R$ 69.221,02 </td>
-	<td>173</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>180</td>
-<!-- Abril -->
-	<td> R$ 71.055,88 </td>
-	<td>178</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>185</td>
-<!-- Maio -->
-	<td> R$ 45.943,20 </td>
-	<td>115</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>122</td>
-<!-- Total -->
-	<td> R$ 302.881,10 </td>
-	<td>757</td>
-	<td>35</td>
-	<td></td>
-	<td></td>
-	<td>792</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1090,57 +1309,20 @@
 	<td></td>
 	<td></td>
 	<td>163</td>
-<!-- Total -->
-	<td> R$ 300.443,04 </td>
-	<td>751</td>
-	<td>34</td>
+<!-- Junho -->
+	<td> R$ 40.928,99 </td>
+	<td>103</td>
+	<td>4</td>
 	<td></td>
 	<td></td>
-	<td>785</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 107.801,00 </td>
-	<td>270</td>
-	<td>12</td>
-	<td></td>
-	<td></td>
-	<td>282</td>
-<!-- Fevereiro -->
-	<td> R$ 42.871,00 </td>
 	<td>107</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>112</td>
-<!-- Março -->
-	<td> R$ 31.819,54 </td>
-	<td>79</td>
-	<td>3</td>
-	<td></td>
-	<td></td>
-	<td>82</td>
-<!-- Abril -->
-	<td> R$ 50.067,60 </td>
-	<td>125</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>130</td>
-<!-- Maio -->
-	<td> R$ 61.361,60 </td>
-	<td>154</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>161</td>
 <!-- Total -->
-	<td> R$ 293.920,74 </td>
-	<td>735</td>
-	<td>32</td>
+	<td> R$ 341.372,03 </td>
+	<td>853</td>
+	<td>38</td>
 	<td></td>
 	<td></td>
-	<td>767</td>
+	<td>891</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1178,13 +1360,71 @@
 	<td></td>
 	<td></td>
 	<td>226</td>
+<!-- Junho -->
+	<td> R$ 42.139,36 </td>
+	<td>106</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>111</td>
 <!-- Total -->
-	<td> R$ 267.042,84 </td>
-	<td>668</td>
-	<td>35</td>
+	<td> R$ 309.182,20 </td>
+	<td>773</td>
+	<td>40</td>
 	<td></td>
 	<td></td>
-	<td>703</td>
+	<td>813</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 107.801,00 </td>
+	<td>270</td>
+	<td>12</td>
+	<td></td>
+	<td></td>
+	<td>282</td>
+<!-- Fevereiro -->
+	<td> R$ 42.871,00 </td>
+	<td>107</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>112</td>
+<!-- Março -->
+	<td> R$ 31.819,54 </td>
+	<td>79</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>82</td>
+<!-- Abril -->
+	<td> R$ 50.067,60 </td>
+	<td>125</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>130</td>
+<!-- Maio -->
+	<td> R$ 61.361,60 </td>
+	<td>154</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>161</td>
+<!-- Junho -->
+	<td> R$ 7.198,36 </td>
+	<td>18</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>19</td>
+<!-- Total -->
+	<td> R$ 301.119,10 </td>
+	<td>753</td>
+	<td>33</td>
+	<td></td>
+	<td></td>
+	<td>786</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1222,13 +1462,20 @@
 	<td></td>
 	<td></td>
 	<td>35</td>
+<!-- Junho -->
+	<td> R$ 56.473,46 </td>
+	<td>142</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>149</td>
 <!-- Total -->
-	<td> R$ 226.425,56 </td>
-	<td>566</td>
-	<td>23</td>
+	<td> R$ 282.899,02 </td>
+	<td>707</td>
+	<td>30</td>
 	<td></td>
 	<td></td>
-	<td>589</td>
+	<td>737</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1266,57 +1513,20 @@
 	<td></td>
 	<td></td>
 	<td>56</td>
+<!-- Junho -->
+	<td> R$ 40.334,63 </td>
+	<td>101</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>105</td>
 <!-- Total -->
-	<td> R$ 221.616,07 </td>
-	<td>554</td>
-	<td>24</td>
+	<td> R$ 261.950,70 </td>
+	<td>655</td>
+	<td>28</td>
 	<td></td>
 	<td></td>
-	<td>578</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ -   </td>
-	<td>0</td>
-	<td>0</td>
-	<td></td>
-	<td></td>
-	<td>0</td>
-<!-- Fevereiro -->
-	<td> R$ -   </td>
-	<td>0</td>
-	<td>0</td>
-	<td></td>
-	<td></td>
-	<td>0</td>
-<!-- Março -->
-	<td> R$ 112.005,00 </td>
-	<td>280</td>
-	<td>10</td>
-	<td></td>
-	<td></td>
-	<td>290</td>
-<!-- Abril -->
-	<td> R$ 54.524,20 </td>
-	<td>136</td>
-	<td>6</td>
-	<td></td>
-	<td></td>
-	<td>142</td>
-<!-- Maio -->
-	<td> R$ 54.088,34 </td>
-	<td>136</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>143</td>
-<!-- Total -->
-	<td> R$ 220.617,54 </td>
-	<td>552</td>
-	<td>23</td>
-	<td></td>
-	<td></td>
-	<td>575</td>
+	<td>683</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1354,13 +1564,20 @@
 	<td></td>
 	<td></td>
 	<td>18</td>
+<!-- Junho -->
+	<td> R$ 36.005,00 </td>
+	<td>91</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>95</td>
 <!-- Total -->
-	<td> R$ 212.258,51 </td>
-	<td>531</td>
-	<td>31</td>
+	<td> R$ 248.263,51 </td>
+	<td>621</td>
+	<td>35</td>
 	<td></td>
 	<td></td>
-	<td>562</td>
+	<td>656</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1378,77 +1595,40 @@
 	<td></td>
 	<td>0</td>
 <!-- Março -->
-	<td> R$ 74.790,04 </td>
-	<td>186</td>
-	<td>8</td>
+	<td> R$ 112.005,00 </td>
+	<td>280</td>
+	<td>10</td>
 	<td></td>
 	<td></td>
-	<td>194</td>
+	<td>290</td>
 <!-- Abril -->
-	<td> R$ 52.542,68 </td>
-	<td>131</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>138</td>
-<!-- Maio -->
-	<td> R$ 86.080,34 </td>
-	<td>216</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>223</td>
-<!-- Total -->
-	<td> R$ 213.413,06 </td>
-	<td>534</td>
-	<td>22</td>
-	<td></td>
-	<td></td>
-	<td>556</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 52.580,00 </td>
-	<td>131</td>
+	<td> R$ 54.524,20 </td>
+	<td>136</td>
 	<td>6</td>
 	<td></td>
 	<td></td>
-	<td>137</td>
-<!-- Fevereiro -->
-	<td> R$ 52.929,00 </td>
-	<td>132</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>137</td>
-<!-- Março -->
-	<td> R$ 40.815,36 </td>
-	<td>102</td>
-	<td>4</td>
-	<td></td>
-	<td></td>
-	<td>106</td>
-<!-- Abril -->
-	<td> R$ 38.537,30 </td>
-	<td>96</td>
-	<td>4</td>
-	<td></td>
-	<td></td>
-	<td>100</td>
+	<td>142</td>
 <!-- Maio -->
-	<td> R$ 22.850,00 </td>
-	<td>58</td>
+	<td> R$ 54.088,34 </td>
+	<td>136</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>143</td>
+<!-- Junho -->
+	<td> R$ 16.954,95 </td>
+	<td>43</td>
 	<td>2</td>
 	<td></td>
 	<td></td>
-	<td>60</td>
+	<td>45</td>
 <!-- Total -->
-	<td> R$ 207.711,66 </td>
-	<td>519</td>
-	<td>21</td>
+	<td> R$ 237.572,49 </td>
+	<td>594</td>
+	<td>25</td>
 	<td></td>
 	<td></td>
-	<td>540</td>
+	<td>619</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1486,145 +1666,71 @@
 	<td></td>
 	<td></td>
 	<td>122</td>
+<!-- Junho -->
+	<td> R$ 31.809,63 </td>
+	<td>78</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>82</td>
 <!-- Total -->
-	<td> R$ 203.088,96 </td>
-	<td>508</td>
-	<td>26</td>
+	<td> R$ 234.898,59 </td>
+	<td>587</td>
+	<td>30</td>
 	<td></td>
 	<td></td>
-	<td>534</td>
+	<td>617</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
-	<td> R$ -   </td>
-	<td>0</td>
-	<td>0</td>
-	<td></td>
-	<td></td>
-	<td>0</td>
-<!-- Fevereiro -->
-	<td> R$ 6.480,00 </td>
-	<td>16</td>
-	<td>1</td>
-	<td></td>
-	<td></td>
-	<td>17</td>
-<!-- Março -->
-	<td> R$ 72.692,68 </td>
-	<td>181</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>190</td>
-<!-- Abril -->
-	<td> R$ 50.209,20 </td>
-	<td>126</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>133</td>
-<!-- Maio -->
-	<td> R$ 72.159,62 </td>
-	<td>181</td>
-	<td>9</td>
-	<td></td>
-	<td></td>
-	<td>190</td>
-<!-- Total -->
-	<td> R$ 201.541,50 </td>
-	<td>504</td>
-	<td>26</td>
-	<td></td>
-	<td></td>
-	<td>530</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 12.755,00 </td>
-	<td>32</td>
-	<td>2</td>
-	<td></td>
-	<td></td>
-	<td>34</td>
-<!-- Fevereiro -->
-	<td> R$ 56.218,00 </td>
-	<td>141</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>148</td>
-<!-- Março -->
-	<td> R$ 66.794,31 </td>
-	<td>166</td>
-	<td>7</td>
-	<td></td>
-	<td></td>
-	<td>173</td>
-<!-- Abril -->
-	<td> R$ 13.543,20 </td>
-	<td>34</td>
-	<td>2</td>
-	<td></td>
-	<td></td>
-	<td>36</td>
-<!-- Maio -->
-	<td> R$ 52.338,00 </td>
+	<td> R$ 52.580,00 </td>
 	<td>131</td>
-	<td>7</td>
+	<td>6</td>
 	<td></td>
 	<td></td>
-	<td>138</td>
-<!-- Total -->
-	<td> R$ 201.648,51 </td>
-	<td>504</td>
-	<td>25</td>
-	<td></td>
-	<td></td>
-	<td>529</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 41.375,00 </td>
-	<td>103</td>
-	<td>5</td>
-	<td></td>
-	<td></td>
-	<td>108</td>
+	<td>137</td>
 <!-- Fevereiro -->
-	<td> R$ 49.802,00 </td>
-	<td>125</td>
-	<td>4</td>
-	<td></td>
-	<td></td>
-	<td>129</td>
-<!-- Março -->
-	<td> R$ 35.727,12 </td>
-	<td>89</td>
+	<td> R$ 52.929,00 </td>
+	<td>132</td>
 	<td>5</td>
 	<td></td>
 	<td></td>
-	<td>94</td>
-<!-- Abril -->
-	<td> R$ 43.557,00 </td>
-	<td>109</td>
+	<td>137</td>
+<!-- Março -->
+	<td> R$ 40.815,36 </td>
+	<td>102</td>
 	<td>4</td>
 	<td></td>
 	<td></td>
-	<td>113</td>
+	<td>106</td>
+<!-- Abril -->
+	<td> R$ 38.537,30 </td>
+	<td>96</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>100</td>
 <!-- Maio -->
-	<td> R$ 25.965,00 </td>
-	<td>65</td>
+	<td> R$ 22.850,00 </td>
+	<td>58</td>
+	<td>2</td>
+	<td></td>
+	<td></td>
+	<td>60</td>
+<!-- Junho -->
+	<td> R$ 29.065,36 </td>
+	<td>73</td>
 	<td>3</td>
 	<td></td>
 	<td></td>
-	<td>68</td>
+	<td>76</td>
 <!-- Total -->
-	<td> R$ 196.426,12 </td>
-	<td>491</td>
-	<td>21</td>
+	<td> R$ 236.777,02 </td>
+	<td>592</td>
+	<td>24</td>
 	<td></td>
 	<td></td>
-	<td>512</td>
+	<td>616</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1662,13 +1768,173 @@
 	<td></td>
 	<td></td>
 	<td>167</td>
+<!-- Junho -->
+	<td> R$ 37.772,36 </td>
+	<td>95</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>99</td>
 <!-- Total -->
-	<td> R$ 195.686,39 </td>
-	<td>489</td>
+	<td> R$ 233.458,75 </td>
+	<td>584</td>
+	<td>26</td>
+	<td></td>
+	<td></td>
+	<td>610</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Fevereiro -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Março -->
+	<td> R$ 74.790,04 </td>
+	<td>186</td>
+	<td>8</td>
+	<td></td>
+	<td></td>
+	<td>194</td>
+<!-- Abril -->
+	<td> R$ 52.542,68 </td>
+	<td>131</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>138</td>
+<!-- Maio -->
+	<td> R$ 86.080,34 </td>
+	<td>216</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>223</td>
+<!-- Junho -->
+	<td> R$ 12.733,20 </td>
+	<td>32</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>33</td>
+<!-- Total -->
+	<td> R$ 226.146,26 </td>
+	<td>565</td>
+	<td>23</td>
+	<td></td>
+	<td></td>
+	<td>588</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 12.755,00 </td>
+	<td>32</td>
+	<td>2</td>
+	<td></td>
+	<td></td>
+	<td>34</td>
+<!-- Fevereiro -->
+	<td> R$ 56.218,00 </td>
+	<td>141</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>148</td>
+<!-- Março -->
+	<td> R$ 66.794,31 </td>
+	<td>166</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>173</td>
+<!-- Abril -->
+	<td> R$ 13.543,20 </td>
+	<td>34</td>
+	<td>2</td>
+	<td></td>
+	<td></td>
+	<td>36</td>
+<!-- Maio -->
+	<td> R$ 52.338,00 </td>
+	<td>131</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>138</td>
+<!-- Junho -->
+	<td> R$ 13.802,36 </td>
+	<td>35</td>
+	<td>2</td>
+	<td></td>
+	<td></td>
+	<td>37</td>
+<!-- Total -->
+	<td> R$ 215.450,87 </td>
+	<td>539</td>
+	<td>27</td>
+	<td></td>
+	<td></td>
+	<td>566</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 41.375,00 </td>
+	<td>103</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>108</td>
+<!-- Fevereiro -->
+	<td> R$ 49.802,00 </td>
+	<td>125</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>129</td>
+<!-- Março -->
+	<td> R$ 35.727,12 </td>
+	<td>89</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>94</td>
+<!-- Abril -->
+	<td> R$ 43.557,00 </td>
+	<td>109</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>113</td>
+<!-- Maio -->
+	<td> R$ 25.965,00 </td>
+	<td>65</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>68</td>
+<!-- Junho -->
+	<td> R$ 6.604,00 </td>
+	<td>17</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>18</td>
+<!-- Total -->
+	<td> R$ 203.030,12 </td>
+	<td>508</td>
 	<td>22</td>
 	<td></td>
 	<td></td>
-	<td>511</td>
+	<td>530</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1706,57 +1972,20 @@
 	<td></td>
 	<td></td>
 	<td>144</td>
-<!-- Total -->
-	<td> R$ 146.541,88 </td>
-	<td>366</td>
-	<td>19</td>
-	<td></td>
-	<td></td>
-	<td>385</td>
-	</tr>
-	<tr>
-<!-- Janeiro -->
-	<td> R$ 38.841,00 </td>
-	<td>97</td>
+<!-- Junho -->
+	<td> R$ 40.475,84 </td>
+	<td>102</td>
 	<td>4</td>
 	<td></td>
 	<td></td>
-	<td>101</td>
-<!-- Fevereiro -->
-	<td> R$ -   </td>
-	<td>0</td>
-	<td>0</td>
-	<td></td>
-	<td></td>
-	<td>0</td>
-<!-- Março -->
-	<td> R$ 20.096,00 </td>
-	<td>50</td>
-	<td>1</td>
-	<td></td>
-	<td></td>
-	<td>51</td>
-<!-- Abril -->
-	<td> R$ 30.489,48 </td>
-	<td>76</td>
-	<td>3</td>
-	<td></td>
-	<td></td>
-	<td>79</td>
-<!-- Maio -->
-	<td> R$ 10.680,00 </td>
-	<td>27</td>
-	<td>1</td>
-	<td></td>
-	<td></td>
-	<td>28</td>
+	<td>106</td>
 <!-- Total -->
-	<td> R$ 100.106,48 </td>
-	<td>250</td>
-	<td>9</td>
+	<td> R$ 187.017,72 </td>
+	<td>468</td>
+	<td>23</td>
 	<td></td>
 	<td></td>
-	<td>259</td>
+	<td>491</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1794,13 +2023,20 @@
 	<td></td>
 	<td></td>
 	<td>55</td>
+<!-- Junho -->
+	<td> R$ 71.957,95 </td>
+	<td>180</td>
+	<td>8</td>
+	<td></td>
+	<td></td>
+	<td>188</td>
 <!-- Total -->
-	<td> R$ 84.856,80 </td>
-	<td>212</td>
-	<td>11</td>
+	<td> R$ 156.814,75 </td>
+	<td>392</td>
+	<td>19</td>
 	<td></td>
 	<td></td>
-	<td>223</td>
+	<td>411</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1838,13 +2074,71 @@
 	<td></td>
 	<td></td>
 	<td>129</td>
+<!-- Junho -->
+	<td> R$ 36.123,56 </td>
+	<td>91</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>95</td>
 <!-- Total -->
-	<td> R$ 84.051,54 </td>
-	<td>210</td>
+	<td> R$ 120.175,10 </td>
+	<td>300</td>
+	<td>14</td>
+	<td></td>
+	<td></td>
+	<td>314</td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td> R$ 38.841,00 </td>
+	<td>97</td>
+	<td>4</td>
+	<td></td>
+	<td></td>
+	<td>101</td>
+<!-- Fevereiro -->
+	<td> R$ -   </td>
+	<td>0</td>
+	<td>0</td>
+	<td></td>
+	<td></td>
+	<td>0</td>
+<!-- Março -->
+	<td> R$ 20.096,00 </td>
+	<td>50</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>51</td>
+<!-- Abril -->
+	<td> R$ 30.489,48 </td>
+	<td>76</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>79</td>
+<!-- Maio -->
+	<td> R$ 10.680,00 </td>
+	<td>27</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>28</td>
+<!-- Junho -->
+	<td> R$ 7.198,36 </td>
+	<td>18</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>19</td>
+<!-- Total -->
+	<td> R$ 107.304,84 </td>
+	<td>268</td>
 	<td>10</td>
 	<td></td>
 	<td></td>
-	<td>220</td>
+	<td>278</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1882,13 +2176,20 @@
 	<td></td>
 	<td></td>
 	<td>0</td>
+<!-- Junho -->
+	<td> R$ 21.000,72 </td>
+	<td>53</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>56</td>
 <!-- Total -->
-	<td> R$ 70.154,00 </td>
-	<td>175</td>
-	<td>7</td>
+	<td> R$ 91.154,72 </td>
+	<td>228</td>
+	<td>10</td>
 	<td></td>
 	<td></td>
-	<td>182</td>
+	<td>238</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1926,13 +2227,20 @@
 	<td></td>
 	<td></td>
 	<td>19</td>
+<!-- Junho -->
+	<td> R$ 27.260,36 </td>
+	<td>69</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>72</td>
 <!-- Total -->
-	<td> R$ 35.724,24 </td>
-	<td>89</td>
-	<td>11</td>
+	<td> R$ 62.984,60 </td>
+	<td>157</td>
+	<td>14</td>
 	<td></td>
 	<td></td>
-	<td>100</td>
+	<td>171</td>
 	</tr>
 	<tr>
 <!-- Janeiro -->
@@ -1970,6 +2278,64 @@
 	<td></td>
 	<td></td>
 	<td>199</td>
+<!-- Junho -->
+	<td> R$ 59.036,27 </td>
+	<td>148</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>155</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 44.405,01 </td>
+	<td>111</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>116</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2014,6 +2380,13 @@
 	<td></td>
 	<td></td>
 	<td>189</td>
+<!-- Junho -->
+	<td> R$ 90.008,59 </td>
+	<td>225</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>235</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2058,6 +2431,64 @@
 	<td></td>
 	<td></td>
 	<td>33</td>
+<!-- Junho -->
+	<td> R$ 48.605,44 </td>
+	<td>121</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>128</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 21.595,08 </td>
+	<td>54</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>57</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2102,6 +2533,13 @@
 	<td></td>
 	<td></td>
 	<td>158</td>
+<!-- Junho -->
+	<td> R$ 162.725,09 </td>
+	<td>407</td>
+	<td>11</td>
+	<td></td>
+	<td></td>
+	<td>418</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2146,6 +2584,166 @@
 	<td></td>
 	<td></td>
 	<td>177</td>
+<!-- Junho -->
+	<td> R$ 212.919,64 </td>
+	<td>533</td>
+	<td>14</td>
+	<td></td>
+	<td></td>
+	<td>547</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 115.770,46 </td>
+	<td>290</td>
+	<td>14</td>
+	<td></td>
+	<td></td>
+	<td>304</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 21.000,72 </td>
+	<td>53</td>
+	<td>3</td>
+	<td></td>
+	<td></td>
+	<td>56</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 115.762,46 </td>
+	<td>290</td>
+	<td>10</td>
+	<td></td>
+	<td></td>
+	<td>300</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2190,6 +2788,13 @@
 	<td></td>
 	<td></td>
 	<td>86</td>
+<!-- Junho -->
+	<td> R$ 47.279,36 </td>
+	<td>119</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>124</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2234,6 +2839,13 @@
 	<td></td>
 	<td></td>
 	<td>204</td>
+<!-- Junho -->
+	<td> R$ 68.172,12 </td>
+	<td>171</td>
+	<td>7</td>
+	<td></td>
+	<td></td>
+	<td>178</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2278,6 +2890,13 @@
 	<td></td>
 	<td></td>
 	<td>137</td>
+<!-- Junho -->
+	<td> R$ 86.494,56 </td>
+	<td>217</td>
+	<td>9</td>
+	<td></td>
+	<td></td>
+	<td>226</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2322,6 +2941,13 @@
 	<td></td>
 	<td></td>
 	<td>491</td>
+<!-- Junho -->
+	<td> R$ 136.126,00 </td>
+	<td>341</td>
+	<td>17</td>
+	<td></td>
+	<td></td>
+	<td>358</td>
 <!-- Total -->
 	<td></td>
 	<td></td>
@@ -2366,6 +2992,115 @@
 	<td></td>
 	<td></td>
 	<td>324</td>
+<!-- Junho -->
+	<td> R$ 120.374,92 </td>
+	<td>301</td>
+	<td>8</td>
+	<td></td>
+	<td></td>
+	<td>309</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 7.198,36 </td>
+	<td>18</td>
+	<td>1</td>
+	<td></td>
+	<td></td>
+	<td>19</td>
+<!-- Total -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+<!-- Janeiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Fevereiro -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Março -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Abril -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Maio -->
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+<!-- Junho -->
+	<td> R$ 35.991,80 </td>
+	<td>90</td>
+	<td>5</td>
+	<td></td>
+	<td></td>
+	<td>95</td>
 <!-- Total -->
 	<td></td>
 	<td></td>

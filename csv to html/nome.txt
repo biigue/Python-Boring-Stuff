@@ -1,55 +1,62 @@
 	<tr><td></td></tr>
-	<tr><td>JOSE ADEVALDO ROCHA </td></tr>
 	<tr><td>EDVAL LAURENTINO SILVA</td></tr>
+	<tr><td>JOSE ADEVALDO ROCHA </td></tr>
 	<tr><td>RAFAEL FARIAS SANTOS - TEOTÔNIO</td></tr>
-	<tr><td>ANA CRISTINA  DOS SANTOS ALVES</td></tr>
-	<tr><td>ADELSON SANTOS LIMA</td></tr>
-	<tr><td>ARLAN ROCHA DOS SANTOS</td></tr>
-	<tr><td>FABIO JOSE GOMES PEREIRA - PALMEIRA</td></tr>
-	<tr><td>JOSE PATRICIO DA SILVA </td></tr>
-	<tr><td>MARIA DE FATIMA NUNES</td></tr>
 	<tr><td>ABEL SANTOS DE OLIVEIRA </td></tr>
-	<tr><td>GENILSON BARBOSA FERREIRA - PALMEIRA</td></tr>
-	<tr><td>GALVONE FAUSTINO ANDRADE</td></tr>
+	<tr><td>FABIO JOSE GOMES PEREIRA - PALMEIRA</td></tr>
+	<tr><td>ANA CRISTINA  DOS SANTOS ALVES</td></tr>
+	<tr><td>ARLAN ROCHA DOS SANTOS</td></tr>
 	<tr><td>VANDERSON WALYSSON BISPO DE LIMA</td></tr>
-	<tr><td>EDILSON MENEZES DE OLIVEIRA </td></tr>
+	<tr><td>ADELSON SANTOS LIMA</td></tr>
+	<tr><td>JOSE PATRICIO DA SILVA </td></tr>
+	<tr><td>GENILSON BARBOSA FERREIRA - PALMEIRA</td></tr>
 	<tr><td>GELVANIO DE OLIVEIRA FERREIRA </td></tr>
+	<tr><td>GALVONE FAUSTINO ANDRADE</td></tr>
+	<tr><td>MARIA DE FATIMA NUNES</td></tr>
+	<tr><td>EDILSON MENEZES DE OLIVEIRA </td></tr>
+	<tr><td>FERNANDO BEZERRA SOARES</td></tr>
+	<tr><td>FABIO DO NASCIMENTO FERREIRA - PALMEIRA</td></tr>
 	<tr><td>EMERSON DA SILVA RAMOS - PALMEIRA</td></tr>
 	<tr><td>DEYSILANE DE QUEIROZ MOREIRA</td></tr>
+	<tr><td>TOBIAS JOSÉ DE QUEIROZ</td></tr>
 	<tr><td>CLAUDIANO FERREIRA DA SILVA - PALMEIRA</td></tr>
-	<tr><td>FERNANDO BEZERRA SOARES</td></tr>
-	<tr><td>RAFAEL TENORIO DOS SANTOS</td></tr>
-	<tr><td>JOAO BISPO DOS SANTOS JUNIOR</td></tr>
-	<tr><td>FABIO DO NASCIMENTO FERREIRA - PALMEIRA</td></tr>
 	<tr><td>LIDIANE CRISTINA SANTOS</td></tr>
+	<tr><td>RAFAEL TENORIO DOS SANTOS</td></tr>
 	<tr><td>IKEI GABRIEL ARAUJO D SÃO BENTO</td></tr>
+	<tr><td>JOAO BISPO DOS SANTOS JUNIOR</td></tr>
 	<tr><td>CELSO BARBOSA DA SILVA</td></tr>
-	<tr><td>LAURINDO JOAO SILVA JUNIOR</td></tr>
 	<tr><td>RONIELSON DA CRUZ LUCENA - PALMEIRA</td></tr>
+	<tr><td>LAURINDO JOAO SILVA JUNIOR</td></tr>
 	<tr><td>WELLINGTON DA SILVA</td></tr>
 	<tr><td>GILBERTO DE OLIVEIRA SANTOS</td></tr>
-	<tr><td>KEVYN RODRIGUES DE FARIAS</td></tr>
 	<tr><td>JONH LENO DA SILVA PATRICIO</td></tr>
-	<tr><td>PEDRO FRANCHINK PORFIRIO CAVALCANTE</td></tr>
-	<tr><td>RANILSON NUNES DE MIRANDA</td></tr>
+	<tr><td>KEVYN RODRIGUES DE FARIAS</td></tr>
 	<tr><td>CICERO DIOGO BARBOSA DOS SANTOS</td></tr>
-	<tr><td>TOBIAS JOSÉ DE QUEIROZ</td></tr>
+	<tr><td>RANILSON NUNES DE MIRANDA</td></tr>
+	<tr><td>GUSTAVO ALVES DA SILVA</td></tr>
+	<tr><td>PEDRO FRANCHINK PORFIRIO CAVALCANTE</td></tr>
 	<tr><td>FABIO JOSE DOS SANTOS ARAPIRACA</td></tr>
 	<tr><td>JOÃO DAYVID ALVES SILVA</td></tr>
-	<tr><td>GUSTAVO ALVES DA SILVA</td></tr>
 	<tr><td>SANDEY ROOSEVELT DANTAS SOUZA</td></tr>
-	<tr><td>JOELMA MACIA</td></tr>
 	<tr><td>JOÃO SANTANA DE SOUZA NETO</td></tr>
 	<tr><td>ANTONIO VICENTE</td></tr>
+	<tr><td>JOELMA MACIA</td></tr>
 	<tr><td>FABIO ANDRE BEZERRA DA SILVA JUNIOR</td></tr>
 	<tr><td>ELIESIO DE MELO JUNIOR</td></tr>
 	<tr><td>ALYSSON SANTOS DE LIMA</td></tr>
+	<tr><td>AMAY CORDEIRO FFERREIRA</td></tr>
 	<tr><td>ANGELICA LIMA E SILVA</td></tr>
 	<tr><td>DANIEL RICARDO DE OLIVEIRA COSTA</td></tr>
+	<tr><td>DENILSON ALMEIDA SILVA</td></tr>
 	<tr><td>ELVIS PRESLEY DA SILVA MENESES</td></tr>
 	<tr><td>JEAN PIERRE MOREIRA DE ALMEIDA</td></tr>
+	<tr><td>JOÃO PAULO CESAR FFERREIRA BARBOSA</td></tr>
+	<tr><td>JOSE EUCLIDES DOS SANTOS NETO</td></tr>
+	<tr><td>JOSE SERGIO DE LIMEIRA SEVERO</td></tr>
 	<tr><td>KAUAN ARBOSA LOBO</td></tr>
 	<tr><td>MICHELE ARAUJO DOS SANTOS</td></tr>
 	<tr><td>NIEDSON EVARISTO DA SILVA</td></tr>
 	<tr><td>ROMULO FAGNER DUTRA DE JESUS</td></tr>
 	<tr><td>VALDERIO COLATINO DE ARAUJO</td></tr>
+	<tr><td>VINICIUS DAVI SILVA RODRIGUES</td></tr>
+	<tr><td>WILSON VANDERLY VIEIRA</td></tr>

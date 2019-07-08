@@ -16,7 +16,7 @@ def mes(contador):
             tabela.write(f'\t<td>{row[contador + i]}</td>\n')
     return contador+colunas
 
-with open('clubinho.csv', mode='r') as csv_file:
+with open('club.csv', mode='r') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
@@ -36,6 +36,8 @@ with open('clubinho.csv', mode='r') as csv_file:
             tabela.write('<!-- Abril -->\n')
             contador = mes(contador)
             tabela.write('<!-- Maio -->\n')
+            contador = mes(contador)
+            tabela.write('<!-- Junho -->\n')
             contador = mes(contador)
             tabela.write('<!-- Total -->\n')
             contador = mes(73)
