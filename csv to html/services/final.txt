@@ -1,0 +1,39 @@
+	<ul class="table__review">
+	<li class="table__head">
+	<div class="list">MODELO E MOTORIZAÇÃO </div>
+	<div class="list">1º REVISÃO</div>
+	<div class="list">2º REVISÃO</div>
+	<div class="list">3º REVISÃO</div>
+	<div class="list">4º REVISÃO</div>
+	<div class="list">5º REVISÃO</div>
+	<div class="list">6º REVISÃO</div>
+	<div class="list">7º REVISÃO</div>
+	<div class="list">8º REVISÃO</div>
+	<div class="list">9º REVISÃO</div>
+	<div class="list">10º REVISÃO</div>
+	</li>
+<li class="table__body" data-carro="TORO 2.0 DIESEL My 20">
+<div class="list">
+<div class="modelo"><h4>TORO 2.0 DIESEL My 20</h4></div></div>
+<div class="list"><strong>1º REVISÃO</strong>
+<div class="valores">R$ 784,00</div></div>
+<div class="list"><strong>2º REVISÃO</strong>
+<div class="valores">R$ 1.204,00</div></div>
+<div class="list"><strong>3º REVISÃO</strong>
+<div class="valores">R$ 1.404,00</div></div>
+<div class="list"><strong>4º REVISÃO</strong>
+<div class="valores">R$ 2.092,00</div></div>
+<div class="list"><strong>5º REVISÃO</strong>
+<div class="valores">R$ 1.088,00</div></div>
+<div class="list"><strong>6º REVISÃO</strong>
+<div class="valores">R$ 1.376,00</div></div>
+<div class="list"><strong>7º REVISÃO</strong>
+<div class="valores">R$ 1.188,00</div></div>
+<div class="list"><strong>8º REVISÃO</strong>
+<div class="valores">R$ 2.092,00</div></div>
+<div class="list"><strong>9º REVISÃO</strong>
+<div class="valores">R$ 1.276,00</div></div>
+<div class="list"><strong>10º REVISÃO</strong>
+<div class="valores">R$ 1.168,00</div></div>
+</li>
+</ul>
