@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f224cb3-d1dd-464e-a834-43f6d25c0539" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csv to html/services/final.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv to html/services/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv to html/services/run2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv to html/services/table2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv to html/services/table3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cresauto models/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv to html/club.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv to html/clubinho.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv to html/csv_html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv to html/nome.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv to html/tabela.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc to html/cons.py" beforeDir="false" afterPath="$PROJECT_DIR$/doc to html/cons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc to html/final.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doc to html/final.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc to html/jeep.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doc to html/jeep.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv to html/club/club.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv to html/club/club.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv to html/club/csv_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv to html/club/csv_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv to html/club/nome.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csv to html/club/nome.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv to html/club/tabela.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csv to html/club/tabela.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run2">
+  <component name="RunManager" selected="Python.csv_html (1)">
     <configuration name="cons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Boring-Stuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +82,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc to html/cons.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv_html (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Boring-Stuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csv to html/club" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv to html/club/csv_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,6 +180,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.csv_html (1)" />
         <item itemvalue="Python.run2" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.cons" />
@@ -187,6 +202,9 @@
       <workItem from="1562610968142" duration="911000" />
       <workItem from="1564165994385" duration="827000" />
       <workItem from="1565117078645" duration="4826000" />
+      <workItem from="1565268493748" duration="1015000" />
+      <workItem from="1569506582302" duration="1443000" />
+      <workItem from="1570216428560" duration="2496000" />
     </task>
     <servers />
   </component>
@@ -198,7 +216,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -216,6 +236,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Boring_Stuff$csv_html__1_.coverage" NAME="csv_html (1) Coverage Results" MODIFIED="1570219578376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csv to html/club" />
     <SUITE FILE_PATH="coverage/Python_Boring_Stuff$csv_html.coverage" NAME="csv_html Coverage Results" MODIFIED="1562611072227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csv to html" />
     <SUITE FILE_PATH="coverage/Python_Boring_Stuff$run.coverage" NAME="run Coverage Results" MODIFIED="1565120359235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csv to html/services" />
     <SUITE FILE_PATH="coverage/Python_Boring_Stuff$run2.coverage" NAME="run2 Coverage Results" MODIFIED="1565121954749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csv to html/services" />
