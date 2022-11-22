@@ -1,0 +1,28 @@
+Query,PT,EN,ES
+authentication,,,
+user,Usuário (email),none,none
+insertUser,Inserir Usuário/Email,none,none
+password,Senha,none,none
+insertPassword,Inserir Senha,none,none
+forgot,Esqueci minha senha,none,none
+titleMfa,Autenticação Multifator (MFA),none,none
+submitMFA,Acabamos de enviar para seu e-mail um código de 7 dígitos, confirme abaixo.,none,none
+submitMFASMS,Acabamos de enviar por sms um código de 7 dígitos, confirme abaixo.,none,none
+labelMfa,Código de Segurança,none,none
+smallMfa,O código expira em 15 minutos,none,none
+buttonMfa,Autenticar,none,none
+resendMfa,Reenviar Código de Segurança,none,none
+copyright,,,
+ishCopyright1,Um produto,none,none
+ishCopyright2,© 2022. Todos os direitos reservados.,none,none
+notifications,,,
+authenticatedSuccessSmsTitle,Sms enviado,none,none
+authenticatedSuccessSms,Acesse o número cadastrado para obter o Código de Autenticação.,none,none
+authenticatedSuccessEmailTitle,Email enviado,none,none
+authenticatedSuccessEmail,Acesse o email cadastrado para obter o Código de Autenticação.,none,none
+errorTitle,Ocorreu um erro,none,none
+authenticatedFail,Falha na autenticação. Tente novamente.,none,none
+pinSuccess,Autenticação concluída com sucesso,none,none
+pinSuccessText,Você está sendo redirecionado para a página inicial do Mantis.,none,none
+pinFail,Falha ao confirmar PIN,none,none
+pinFailText,Tente novamente ou clique em Reenviar Codigo de Segurança para receber um código válido.,none,none

@@ -1,0 +1,32 @@
+{
+	"authentication": {
+	"user": "Usuário (email)",
+	"insertUser": "Inserir Usuário/Email",
+	"password": "Senha",
+	"insertPassword": "Inserir Senha",
+	"forgot": "Esqueci minha senha",
+	"titleMfa": "Autenticação Multifator (MFA)",
+	"submitMFA": "Acabamos de enviar para seu e-mail um código de 7 dígitos",
+	"submitMFASMS": "Acabamos de enviar por sms um código de 7 dígitos",
+	"labelMfa": "Código de Segurança",
+	"smallMfa": "O código expira em 15 minutos",
+	"buttonMfa": "Autenticar",
+	"resendMfa": "Reenviar Código de Segurança"
+},
+	"copyright": {
+	"ishCopyright1": "Um produto",
+	"ishCopyright2": "© 2022. Todos os direitos reservados."
+},
+	"notifications": {
+	"authenticatedSuccessSmsTitle": "Sms enviado",
+	"authenticatedSuccessSms": "Acesse o número cadastrado para obter o Código de Autenticação.",
+	"authenticatedSuccessEmailTitle": "Email enviado",
+	"authenticatedSuccessEmail": "Acesse o email cadastrado para obter o Código de Autenticação.",
+	"errorTitle": "Ocorreu um erro",
+	"authenticatedFail": "Falha na autenticação. Tente novamente.",
+	"pinSuccess": "Autenticação concluída com sucesso",
+	"pinSuccessText": "Você está sendo redirecionado para a página inicial do Mantis.",
+	"pinFail": "Falha ao confirmar PIN",
+	"pinFailText": "Tente novamente ou clique em Reenviar Codigo de Segurança para receber um código válido."
+}
+}

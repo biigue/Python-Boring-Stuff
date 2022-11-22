@@ -1,0 +1,32 @@
+{
+	"authentication": {
+	"user": "none",
+	"insertUser": "none",
+	"password": "none",
+	"insertPassword": "none",
+	"forgot": "none",
+	"titleMfa": "none",
+	"submitMFA": " confirme abaixo.",
+	"submitMFASMS": " confirme abaixo.",
+	"labelMfa": "none",
+	"smallMfa": "none",
+	"buttonMfa": "none",
+	"resendMfa": "none"
+},
+	"copyright": {
+	"ishCopyright1": "none",
+	"ishCopyright2": "none"
+},
+	"notifications": {
+	"authenticatedSuccessSmsTitle": "none",
+	"authenticatedSuccessSms": "none",
+	"authenticatedSuccessEmailTitle": "none",
+	"authenticatedSuccessEmail": "none",
+	"errorTitle": "none",
+	"authenticatedFail": "none",
+	"pinSuccess": "none",
+	"pinSuccessText": "none",
+	"pinFail": "none",
+	"pinFailText": "none"
+}
+}
