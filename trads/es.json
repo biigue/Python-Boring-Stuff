@@ -1,32 +1,215 @@
 {
 	"authentication": {
-	"user": "none",
-	"insertUser": "none",
-	"password": "none",
-	"insertPassword": "none",
-	"forgot": "none",
-	"titleMfa": "none",
-	"submitMFA": "none",
-	"submitMFASMS": "none",
-	"labelMfa": "none",
-	"smallMfa": "none",
-	"buttonMfa": "none",
-	"resendMfa": "none"
-},
-	"copyright": {
-	"ishCopyright1": "none",
-	"ishCopyright2": "none"
+	"user": "Usuario (e-mail)",
+	"insertUser": "Insertar usuario",
+	"password": "Clave",
+	"insertPassword": "Insertar clave",
+	"forgot": "Olvide mi contraseña",
+	"titleMfa": "Autenticación multifactor (MFA)",
+	"submitMFA": "'Acabamos de enviar a su e-mail un código de 7 dígitos, confirme a continuación.'",
+	"submitMFASMS": "'Acabamos de enviar un código de 7 dígitos por SMS, confirme a continuación.'",
+	"labelMfa": "Código de seguridad",
+	"smallMfa": "El código caduca en 15 minutos",
+	"buttonMfa": "Autenticar",
+	"resendMfa": "Reenviar código de seguridad",
+	"ishCopyright1": "Un producto",
+	"ishCopyright2": "© 2022. Todos los derechos reservados."
 },
 	"notifications": {
-	"authenticatedSuccessSmsTitle": "none",
-	"authenticatedSuccessSms": "none",
-	"authenticatedSuccessEmailTitle": "none",
-	"authenticatedSuccessEmail": "none",
-	"errorTitle": "none",
-	"authenticatedFail": "none",
-	"pinSuccess": "none",
-	"pinSuccessText": "none",
-	"pinFail": "none",
-	"pinFailText": "none"
+	"authenticatedSuccessSmsTitle": "SMS enviado",
+	"authenticatedSuccessSms": "Accede al número registrado para obtener el Código de Autenticación.",
+	"authenticatedSuccessEmailTitle": "Email enviado",
+	"authenticatedSuccessEmail": "Acceda al correo electrónico registrado para obtener el Código de Autenticación.",
+	"errorTitle": "Ocurrio un error",
+	"authenticatedFail": "Autenticación fallida. Inténtalo de nuevo.",
+	"pinSuccess": "Autenticación completada con éxito",
+	"pinSuccessText": "Está siendo redirigido a la página de inicio de Mantis.",
+	"pinFail": "No se pudo confirmar el PIN",
+	"pinFailText": "Vuelva a intentarlo o haga clic en Reenviar código de seguridad para recibir un código válido."
+},
+	"language": {
+	"title": "Idioma",
+	"pt_BR": "Portugués",
+	"en": "Inglés",
+	"es": "Español",
+	"choose": "Elige un idioma..."
+},
+	"common": {
+	"severity": "Gravedad",
+	"typeAsset": "Tipos de activos",
+	"typeInc": "Tipos de incidentes",
+	"clean": "Limpio",
+	"apply": "Aplicar",
+	"justify": "Justificación",
+	"cancel": "cancelar",
+	"sendSoli": "Enviar petición",
+	"back": "Regresar",
+	"events": "Eventos",
+	"edit": "Para editar",
+	"disabled": "Deshabilitar",
+	"enabled": "Habilitar",
+	"priority": "Prioridad",
+	"low": "Baja",
+	"lowest": "Más baja",
+	"medium": "Promedio",
+	"high": "Alta",
+	"highest": "Mas alta",
+	"event": "Evento",
+	"last": "último",
+	"more": "sepa mas",
+	"reset": "Reiniciar",
+	"noData": "No hay datos para ver",
+	"result": "resultados",
+	"de": "en",
+	"showTable1": "Él",
+	"showTable": "Demostración",
+	"include": "Incluir",
+	"asset": "Activo",
+	"search": "Buscar"
+},
+	"menu": {
+	"dashboard": "Dashboard",
+	"explore": "Explorar",
+	"serviceCall": "Llamados",
+	"report": "Informes",
+	"ativos": "Activos"
+},
+	"breadcrumb": {
+	"keepUpToDate": "Mantener actualizado",
+	"analyzed": "Eventos analizados:"
+},
+	"assetsPage": {
+	"navtext": "Buscar activo...",
+	"aboutTable": "Seleccione un activo de la lista para ver los detalles o editarlo",
+	"filterTitle": "Filtrar activos",
+	"titleDash": "Datos de activos",
+	"dashAbout": "Haga clic en los elementos del tablero para aplicar máscaras de vista a la lista",
+	"title": "Lista de activos",
+	"titleFlow": "Flujo de inclusión de Nuevos Activos",
+	"statusAboutTitle": "Estado de activos",
+	"statusDesc1": "Habilitado (para casos en los que se ha aprobado el nuevo activo)",
+	"statusDesc2": "Deshabilitado (activos previamente aprobados pero deshabilitados por operación o solicitud del usuario)",
+	"descFlow": "'Al ser un elemento crítico para la operación de Mantis, cada incorporación de nuevos activos es analizada por el Equipo de Operaciones. Las revisiones pueden resultar en aprobación o no aprobación. Una vez aprobado, el activo se habilita automáticamente y se agrega a la lista. Es posible deshabilitarlo previa solicitud al equipo de operación.'",
+	"backAbout": "Volver a la selección del tipo de activo",
+	"aboutAssetLast": "Los activos no aprobados o en proceso de revisión no aparecerán en la lista. La justificación de la negativa de inclusión se envía a través del sistema de ticketing.",
+	"aboutAssset": "'Envíe activos de tipo APK, Bin, Dominio, IPv4, Marca o VIP. Obtenga más información sobre cada tipo seleccionando una categoría en la pantalla anterior. La información se presentará acompañada de los campos requeridos para el registro.'",
+	"create": "Nuevo activo",
+	"editTitle": "Cambiar o deshabilitar el activo",
+	"fillFields": "Complete los detalles del activo",
+	"titleData": "Datos de edición de recursos",
+	"errorEdit": "Valor no incluido. Haga clic en 'Agregar' o borre el campo para continuar",
+	"choiceEdit": "Edición deseada para el activo",
+	"explainAsset": "¿Cómo funcionan las solicitudes de nuevos activos?",
+	"selectType": "Seleccione el tipo de activo deseado",
+	"detailAsset": "Detalles de activos",
+	"descEdit": "'Puede solicitar editar activos o habilitarlos/deshabilitarlos. Seleccione la acción deseada (editar, habilitar o deshabilitar), complete la justificación (opcional) que será analizada por el equipo de operaciones de Mantis y describa la edición deseada, cuando corresponda.'",
+	"actionEdit": "Acción solicitada",
+	"edit": "Editar Activo",
+	"id": "ID",
+	"ativo": "Activo",
+	"type": "Tipo",
+	"status": "Status",
+	"action": "Acción",
+	"manage": "Gestionar",
+	"update_at": "Actualizado",
+	"explore": "Explorar eventos",
+	"dateAtt": "Fecha de actualización",
+	"noDataFilter": "Sin datos de activos para generar gráficos. La vista previa se muestra en la lista. Siga las instrucciones al costado para obtener resultados.",
+	"show": "demostración",
+	"noResultTitle": "¡Ay! sin resultados",
+	"assets": "activo",
+	"noResult": "Si aún no hay activos registrados, haga clic en Nuevo activo. Caso contrário, verifique sus términos de búsqueda, filtros aplicados y máscara de visualización. o haga clic en Restablecer para volver a la lista original con todos los activos. Si los activos existentes no se enumeran, póngase en contacto con el soporte",
+	"erroLoad": "Error de carga activos"
+},
+	"filters": {
+	"enabled": "Habilitado",
+	"disabled": "Deshabilitado",
+	"text": "Seleccione al menos un elemento de cada grupo para continuar"
+},
+	"apkCreate": {
+	"shortDesc": "Supervisar la disponibilidad de la aplicación desde el nombre del paquete",
+	"title": "Acerca de los activos de tipo apk",
+	"description": "Un activo de APK (aplicación) permite que el equipo de operaciones de Mantis identifique la existencia de aplicaciones no autorizadas o maliciosas en enlaces y tiendas no oficiales. La caza se realiza en base al nombre del Paquete de la aplicación oficial obtenida de las tiendas donde se publica. Un activo de APK (aplicación) permite que el equipo de operaciones de Mantis identifique la existencia de aplicaciones no autorizadas o maliciosas en enlaces y tiendas no oficiales. La caza se realiza en base al nombre del Paquete de la aplicación oficial obtenida de las tiendas donde se publica.",
+	"label": "Nombre del paquete",
+	"placeholder": "br.net.ejemplo.nombr-guión"
+},
+	"ipv4Create": {
+	"shortDesc": "Supervisa la infraestructura en busca de vulnerabilidades según el número de IP",
+	"title": "Acerca de los activos de tipo IPv4",
+	"description": "'El Protocolo de Internet versión 4 identifica los equipos conectados a Internet. Le permite identificar vulnerabilidades al monitorear si el equipo tiene puertos expuestos públicamente. IPv4 se compone de cuatro números, entre 0 y 255, separados por puntos.'",
+	"label": "Número de IP"
+},
+	"binCreate": {
+	"shortDesc": "Rastrea las tarjetas a través de los primeros seis dígitos de identificación",
+	"title": "Acerca de los activos de tipo Bin",
+	"description": "'Supervise la web superficial, profunda y oscura en busca de información filtrada de la tarjeta de crédito del cliente y manténgase a la vanguardia del fraude. Solo se informan los primeros 4 a 6 dígitos de la identificación de la tarjeta. Identifican la bandera e institución que expide la tarjeta.'",
+	"label": "Número de contenedor"
+},
+	"brandCreate": {
+	"type": "Marca",
+	"shortDesc": "Identifica menciones de marca para contextos maliciosos",
+	"title": "Acerca de los activos de la marca",
+	"description": "'Supervisa la aparición de términos específicos en la web superficial, profunda y oscura. Se puede informar el nombre de la marca, proyecto o producto, y los términos relacionados a monitorear: palabras clave, submarcas, eslogan y similares.'",
+	"placeholder": "Marca y términos relacionados"
+},
+	"domainCreate": {
+	"type": "Dominio",
+	"shortDesc": "Supervise el dominio del sitio web y los correos electrónicos corporativos desde la URL",
+	"title": "Acerca de los activos de tipo de dominio",
+	"description": "'Desde la URL principal del dominio provisto, es posible monitorear Internet en busca de enlaces maliciosos relacionados con campañas de phishing, spam, malware y otras amenazas, además de direcciones de correo electrónico no autorizadas que usan su dominio.'",
+	"placeholder": "ejemplo.net.br"
+},
+	"vipCreate": {
+	"shortDesc": "Supervisa la identidad de los C-Levels y la junta a partir del nombre y los correos electrónicos",
+	"title": "Acerca de los activos de tipo VIP",
+	"description": "'Activos que identifican a los C-Levels de las organizaciones. A partir del nombre y las direcciones de correo electrónico proporcionados, monitoreamos las filtraciones de credenciales e información confidencial, identificando eventos fraudulentos como la suplantación de identidad y otras amenazas.'",
+	"label": "'Nombre completo, correo electrónico, teléfono con código de área, CPF y otros (un dato a la vez)'",
+	"placeholder": "Complete y haga clic en agregar"
+},
+	"navbar": {
+	"authEmail": "Autenticado como",
+	"profile": "Mi perfil",
+	"manageUser": "Administrar usuarios",
+	"notification": "Administrar notificaciones",
+	"sup": "Soporte",
+	"logout": "Vete"
+},
+	"tickets": {
+	"footerMenu": "¿Cuáles son las indicaciones de cada tipo de llamada?",
+	"modalTitle": "Nueva llamada"
+},
+	"suportCreate": {
+	"name": "Soporte",
+	"category": "Sistema",
+	"description": "Solicite soporte describiendo su necesidad",
+	"descriptionFull": "'Solicite soporte del equipo de operación de Mantis, describiendo su pregunta o necesidad en detalle para que podamos servirle mejor'",
+	"title": "Título de la sugerencia de mejora",
+	"text": "Solicitud de soporte"
+},
+	"sugestCreate": {
+	"name": "Sugerir mejora",
+	"text": "Solicitud de mejora",
+	"description": "Envíe ideas para mejoras y funciones.",
+	"descriptionFull": "Contribuya con sus ideas para mejoras y también para nuevas funciones que le gustaría ver en Mantis. Tus comentarios son valiosos para mejorar la experiencia de nuestros usuarios.",
+	"title": "Título de la sugerencia de mejora"
+},
+	"bugCreate": {
+	"name": "Reportar un error",
+	"description": "Por favor reporte un problema encontrado en Mantis",
+	"descriptionFull": "Indicar la ocurrencia de cualquier problema encontrado en Mantis para que nuestros analistas puedan evaluar e incluir las acciones de corrección de backlog necesarias",
+	"title": "Título de ocurrencia de error",
+	"text": "Solicitud de soporte"
+},
+	"takedownCreate": {
+	"category": "Gestión de eventos",
+	"description": "Solicitar eliminación de perfiles o dominios",
+	"descriptionFull": "Contribuya con sus ideas para mejoras y también para nuevas funciones que le gustaría ver en Mantis. Tus comentarios son valiosos para mejorar la experiencia de nuestros usuarios.",
+	"title": "Título de la sugerencia de mejora",
+	"text": "Solicitud de mejora"
+},
+	"createAsset": {
+	"name": "Crear activos",
+	"category": "Gestión de activos",
+	"description": "Agregar nuevos activos para ser monitoreados"
 }
 }

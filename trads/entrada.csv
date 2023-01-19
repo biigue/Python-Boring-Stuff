@@ -1,28 +1,193 @@
-Query,PT,EN,ES
-authentication,,,
-user,Usuário (email),none,none
-insertUser,Inserir Usuário/Email,none,none
-password,Senha,none,none
-insertPassword,Inserir Senha,none,none
-forgot,Esqueci minha senha,none,none
-titleMfa,Autenticação Multifator (MFA),none,none
-submitMFA,Acabamos de enviar para seu e-mail um código de 7 dígitos, confirme abaixo.,none,none
-submitMFASMS,Acabamos de enviar por sms um código de 7 dígitos, confirme abaixo.,none,none
-labelMfa,Código de Segurança,none,none
-smallMfa,O código expira em 15 minutos,none,none
-buttonMfa,Autenticar,none,none
-resendMfa,Reenviar Código de Segurança,none,none
-copyright,,,
-ishCopyright1,Um produto,none,none
-ishCopyright2,© 2022. Todos os direitos reservados.,none,none
-notifications,,,
-authenticatedSuccessSmsTitle,Sms enviado,none,none
-authenticatedSuccessSms,Acesse o número cadastrado para obter o Código de Autenticação.,none,none
-authenticatedSuccessEmailTitle,Email enviado,none,none
-authenticatedSuccessEmail,Acesse o email cadastrado para obter o Código de Autenticação.,none,none
-errorTitle,Ocorreu um erro,none,none
-authenticatedFail,Falha na autenticação. Tente novamente.,none,none
-pinSuccess,Autenticação concluída com sucesso,none,none
-pinSuccessText,Você está sendo redirecionado para a página inicial do Mantis.,none,none
-pinFail,Falha ao confirmar PIN,none,none
-pinFailText,Tente novamente ou clique em Reenviar Codigo de Segurança para receber um código válido.,none,none
+Query;PT;EN;ES
+authentication;;;
+user;Usuário (email);User (email);Usuario (e-mail)
+insertUser;Inserir Usuário/Email;Insert User/Email;Insertar usuario
+password;Senha;Password;Clave
+insertPassword;Inserir Senha;Insert Password;Insertar clave
+forgot;Esqueci minha senha;Forgot passowrd;Olvide mi contraseña
+titleMfa;Autenticação Multifator (MFA);Multifactor Authentication (MFA);Autenticación multifactor (MFA)
+submitMFA;'Acabamos de enviar para seu e-mail um código de 7 dígitos, confirme abaixo.';'We have just sent a 7-digit code to your email, confirm below.';'Acabamos de enviar a su e-mail un código de 7 dígitos, confirme a continuación.'
+submitMFASMS;'Acabamos de enviar por SMS um código de 7 dígitos, confirme abaixo.';'We have just sent a 7-digit code by SMS, confirm below.';'Acabamos de enviar un código de 7 dígitos por SMS, confirme a continuación.'
+labelMfa;Código de Segurança;Security code;Código de seguridad
+smallMfa;O código expira em 15 minutos;Code expires in 15 minutes;El código caduca en 15 minutos
+buttonMfa;Autenticar;Authenticate;Autenticar
+resendMfa;Reenviar Código de Segurança;Resend Security Code;Reenviar código de seguridad
+ishCopyright1;Um produto;A product by;Un producto
+ishCopyright2;© 2022. Todos os direitos reservados.;© 2022. All rights reserved.;© 2022. Todos los derechos reservados.
+notifications;;;
+authenticatedSuccessSmsTitle;SMS enviado;SMS sent;SMS enviado
+authenticatedSuccessSms;Acesse o número cadastrado para obter o Código de Autenticação.;Access the registered number to obtain the Authentication Code.;Accede al número registrado para obtener el Código de Autenticación.
+authenticatedSuccessEmailTitle;Email enviado;Email sent;Email enviado
+authenticatedSuccessEmail;Acesse o email cadastrado para obter o Código de Autenticação.;Access the registered email to obtain the Authentication Code.;Acceda al correo electrónico registrado para obtener el Código de Autenticación.
+errorTitle;Ocorreu um erro;An error has occurred;Ocurrio un error
+authenticatedFail;Falha na autenticação. Tente novamente.;Authentication failed. Try again.;Autenticación fallida. Inténtalo de nuevo.
+pinSuccess;Autenticação concluída com sucesso;Authentication completed successfully;Autenticación completada con éxito
+pinSuccessText;Você está sendo redirecionado para a página inicial do Mantis.;You are being redirected to the Mantis homepage.;Está siendo redirigido a la página de inicio de Mantis.
+pinFail;Falha ao confirmar PIN;Failed to confirm PIN code;No se pudo confirmar el PIN
+pinFailText;Tente novamente ou clique em Reenviar Codigo de Segurança para receber um código válido.;Please try again or click Resend Security Code to receive a valid code.;Vuelva a intentarlo o haga clic en Reenviar código de seguridad para recibir un código válido.
+language;;;
+title;Idioma;Language;Idioma
+pt_BR;Português;Portuguese;Portugués
+en;Inglês;English;Inglés
+es;Espanhol;Spanish;Español
+choose;Escolha um idioma...;Choose a language...;Elige un idioma...
+common;;;
+severity;Severidade;Severity;Gravedad
+typeAsset;Tipos de Ativos;Types of assets;Tipos de activos
+typeInc;Tipos de Incidentes;Types of Incidents;Tipos de incidentes
+clean;Limpar;Clean;Limpio
+apply;Aplicar;Apply;Aplicar
+justify;Justificativa;Justification;Justificación
+cancel;cancelar;cancel;cancelar
+sendSoli;Enviar Solicitação;Send request;Enviar petición
+back;Voltar;Back;Regresar
+events;Eventos;Events;Eventos
+edit;Editar;Edit;Para editar
+disabled;Desabilitar;Disable;Deshabilitar
+enabled;Habilitar;Enable;Habilitar
+priority;Prioridade;Priority;Prioridad
+low;Baixa;Low;Baja
+lowest;Mais baixa;Lowest;Más baja
+medium;Média;Medium;Promedio
+high;Alta;High;Alta
+highest;Mais Alta;Highest;Mas alta
+event;Evento;Event;Evento
+last;Últimos;Latest;último
+more;Saiba mais;Know more;sepa mas
+reset;Resetar;Reset;Reiniciar
+noData;Sem dados para visualizar;No data to view;No hay datos para ver
+result;resultado(s);result(s);resultados
+de;de ;in;en
+showTable1;a;The;Él
+showTable;Exibindo;Showing;Demostración
+include;Incluir;Include;Incluir
+asset;Ativo;Asset;Activo
+search;Buscar;Search;Buscar
+menu;;;
+dashboard;Dashboard;Dashboard;Dashboard
+explore;Explorar;Explore;Explorar
+serviceCall;Chamados;Ticket;Llamados
+report;Relatórios;Reports;Informes
+ativos;Ativos;Assets;Activos
+breadcrumb;;;
+keepUpToDate;Manter Atualizado;Keep up to date;Mantener actualizado
+analyzed;Eventos Analisados:;Analyzed Events:;Eventos analizados:
+assetsPage;;;
+navtext;Procurar por ativo...;Search for asset...;Buscar activo...
+aboutTable;Selecione um ativo na listagem para visualizar os detalhes ou editá-lo;Select an asset from the listing to view details or edit it;Seleccione un activo de la lista para ver los detalles o editarlo
+filterTitle;Filtrar Ativos;Filter Assets;Filtrar activos
+titleDash;Dados de ativos;Asset data;Datos de activos
+dashAbout;Clique em elementos do dashboard para aplicar máscaras de visualização à listagem;Click dashboard elements to apply view masks to the listing;Haga clic en los elementos del tablero para aplicar máscaras de vista a la lista
+title;Lista de Ativos;Assets list;Lista de activos
+titleFlow;Fluxo da inclusão de Novos Ativos;Flow of inclusion of New Assets;Flujo de inclusión de Nuevos Activos
+statusAboutTitle;Status dos ativos;Asset status;Estado de activos
+statusDesc1;Habilitado (para os casos em que o novo ativo foi aprovado);Enabled (in case the new asset is approved);Habilitado (para casos en los que se ha aprobado el nuevo activo)
+statusDesc2;Desabilitado (ativos anteriormente aprovados mas desbilitados pela operação ou a pedido do usuário);Disabled (previously approved assets but disabled by operation or user request);Deshabilitado (activos previamente aprobados pero deshabilitados por operación o solicitud del usuario)
+descFlow;'Por se tratar de um elemento crítico para o funcionamento do Mantis, toda inclusão de novos ativos é analizada pelo Time de Operação. As análises podem resultar em aprovação ou não-aprovação. Uma vez aprovado, o ativo é automaticamente habilitado e adicionado à listagem. É possível desabilitá-lo mediante solicitação ao time de operação.';'As it is a critical element for the operation of Mantis, every inclusion of new assets is analyzed by the Operations Team. Reviews can result in approval or non-approval. Once approved, the asset is automatically enabled and added to the list. It is possible to disable it upon request to the operation team.';'Al ser un elemento crítico para la operación de Mantis, cada incorporación de nuevos activos es analizada por el Equipo de Operaciones. Las revisiones pueden resultar en aprobación o no aprobación. Una vez aprobado, el activo se habilita automáticamente y se agrega a la lista. Es posible deshabilitarlo previa solicitud al equipo de operación.'
+backAbout;Voltar para a seleção de tipos de ativos;Back to asset type selection;Volver a la selección del tipo de activo
+aboutAssetLast;Ativos não aprovados ou em análise não serão listados. A justificativa da inclusão negada é enviada através do Sistema de Chamados.;Unapproved or under review assets will not be listed. The justification for denied inclusion is sent through the ticketing system.;Los activos no aprobados o en proceso de revisión no aparecerán en la lista. La justificación de la negativa de inclusión se envía a través del sistema de ticketing.
+aboutAssset;'Submeta ativos dos tipos APK, Bin, Domínio, IPv4, Marca ou VIP. Saiba mais sobre cada tipo selecionando uma categoria na tela anterior. Informações serão apresentadas acompanhadas dos campos necessários para o cadastro.';'Submit APK, Bin, Domain, IPv4, Brand, or VIP type assets. Learn more about each type by selecting a category on the previous screen. Information will be presented accompanied by the fields required for registration.';'Envíe activos de tipo APK, Bin, Dominio, IPv4, Marca o VIP. Obtenga más información sobre cada tipo seleccionando una categoría en la pantalla anterior. La información se presentará acompañada de los campos requeridos para el registro.'
+create;Novo Ativo;New asset;Nuevo activo
+editTitle;Alterar ou desabilitar o ativo;Change or disable the asset;Cambiar o deshabilitar el activo
+fillFields;Preencha os dados do ativo;Fill in asset details;Complete los detalles del activo
+titleData;Dados da edição do Ativo;Asset edition data;Datos de edición de recursos
+errorEdit;Valor não incluído. Clique em 'Incluir' ou limpe o campo para prosseguir;Value not included. Click 'Add' or clear the field to proceed;Valor no incluido. Haga clic en 'Agregar' o borre el campo para continuar
+choiceEdit;Edição desejada para o ativo;Desired edition for asset;Edición deseada para el activo
+explainAsset;Como funcionam as solicitações de Novo Ativo?;How do New Asset requests work?;¿Cómo funcionan las solicitudes de nuevos activos?
+selectType;Selecione o tipo de ativo desejado;Select the desired asset type;Seleccione el tipo de activo deseado
+detailAsset;Detalhes do Ativo;Asset Details;Detalles de activos
+descEdit;'É possível solicitar a edição de ativos ou habilitá-los/desabilitá-los. Selecione a ação desejada (editar, habilitar ou desabilitar), preencha a justificativa (opcional) que será analisada pelo Time de Operação do Mantis e descreva a edição desejada, quando for o caso.';'You can request to edit assets or enable/disable them. Select the desired action (edit, enable or disable), fill in the justification (optional) that will be analyzed by the Mantis Operations Team and describe the desired edition, when applicable.';'Puede solicitar editar activos o habilitarlos/deshabilitarlos. Seleccione la acción deseada (editar, habilitar o deshabilitar), complete la justificación (opcional) que será analizada por el equipo de operaciones de Mantis y describa la edición deseada, cuando corresponda.'
+actionEdit;Ação Solicitada;Action Requested;Acción solicitada
+edit;Editar Ativo;Edit Asset;Editar Activo
+id;ID;ID;ID
+ativo;Ativo;Asset;Activo
+type;Tipo;Type;Tipo
+status;Status;Status;Status
+action;Ação;Action;Acción
+manage;Gerenciar;Manage;Gestionar
+update_at;Atualizado em;Updated;Actualizado
+explore;Explorar eventos;Explore events;Explorar eventos
+dateAtt;Data atualização;Update date;Fecha de actualización
+noDataFilter;Sem Dados de Ativos para gerar gráficos. ?A visualização é calculada a partir da listagem. ?Siga as instruções ao lado para obter resultados;No Asset Data to generate graphs. The preview is shown from the listing. Follow the instructions on the side to get results.;Sin datos de activos para generar gráficos. La vista previa se muestra en la lista. Siga las instrucciones al costado para obtener resultados.
+show;Exibindo;showing;demostración
+noResultTitle;Oh-oh! Nenhum resultado;Oh oh! no results;¡Ay! sin resultados
+assets;ativos;active;activo
+noResult;Se ainda não há ativos cadastrados, clique em Novo Ativo. Caso contrário, verifique os termos de sua busca, os filtros e máscara de visualização aplicados. ou clique em Resetar para retornar à listagem original com todos os ativos.Caso ativos existentes não estejam sendo listados, contacte o suporte;If there are no assets registered yet, click on New Asset. Otherwise, check your search terms, applied filters and visualization mask. or click Reset to return to the original listing with all assets. If existing assets are not being listed, contact support;Si aún no hay activos registrados, haga clic en Nuevo activo. Caso contrário, verifique sus términos de búsqueda, filtros aplicados y máscara de visualización. o haga clic en Restablecer para volver a la lista original con todos los activos. Si los activos existentes no se enumeran, póngase en contacto con el soporte
+erroLoad;Erro ao carregar os ativos;Error loading assets;Error de carga activos
+filters;;;
+enabled;Habilitado;Able;Habilitado
+disabled;Desabilitado;Disable;Deshabilitado
+text;Selecione ao menos um item em cada grupo para prosseguir;Select at least one item in each group to proceed;Seleccione al menos un elemento de cada grupo para continuar
+apkCreate;;;
+shortDesc;Monitora a disponibilidade de aplicativos a partir do package name;Monitors app availability based on package name;Supervisar la disponibilidad de la aplicación desde el nombre del paquete
+title;Sobre ativos do tipo APK;About apk-type assets;Acerca de los activos de tipo apk
+description;Um ativo APK (Aplicativo) possibilita ao Time de Operação Mantis identificar a existência de aplicativos não autorizados ou maliciosos em links e lojas não-oficiais. O hunting é realizado a partir do Package name do aplicativo oficial obtido das lojas onde ele se encontra publicado. Um ativo APK (Aplicativo) possibilita ao Time de Operação Mantis identificar a existência de aplicativos não autorizados ou maliciosos em links e lojas não-oficiais. O hunting é realizado a partir do Package name do aplicativo oficial obtido das lojas onde ele se encontra publicado.;An APK (Application) asset enables the Mantis Operations Team to identify the existence of unauthorized or malicious applications on unofficial links and stores. Hunting is carried out based on the Package name of the official application obtained from the stores where it is published. An APK (Application) asset enables the Mantis Operations Team to identify the existence of unauthorized or malicious applications on unofficial links and stores. Hunting is carried out based on the Package name of the official application obtained from the stores where it is published.;Un activo de APK (aplicación) permite que el equipo de operaciones de Mantis identifique la existencia de aplicaciones no autorizadas o maliciosas en enlaces y tiendas no oficiales. La caza se realiza en base al nombre del Paquete de la aplicación oficial obtenida de las tiendas donde se publica. Un activo de APK (aplicación) permite que el equipo de operaciones de Mantis identifique la existencia de aplicaciones no autorizadas o maliciosas en enlaces y tiendas no oficiales. La caza se realiza en base al nombre del Paquete de la aplicación oficial obtenida de las tiendas donde se publica.
+label;Packge name;Package name;Nombre del paquete
+placeholder;br.net.exemplo.nome-hifenizado;br.net.example.hyphenated-name;br.net.ejemplo.nombr-guión
+ipv4Create;;;
+shortDesc;Monitora a infraestrutura em busca de vulnerabilidades a partir do número IP;Monitors the infrastructure for vulnerabilities based on the IP number;Supervisa la infraestructura en busca de vulnerabilidades según el número de IP
+title;Sobre ativos do tipo IPv4;About IPv4 type assets;Acerca de los activos de tipo IPv4
+description;'O Internet Protocol versão 4 identifica os equipamentos conectados à internet. Permite identificar vulenrabilidades monitorando se os equipamentos apresentam portas expostas publicamente. O IPv4 é composto por quatro números, entre 0 e 255, separados por pontos.';'Internet Protocol version 4 identifies equipment connected to the Internet. It allows you to identify vulnerabilities by monitoring whether the equipment has publicly exposed ports. IPv4 consists of four numbers, between 0 and 255, separated by dots.';'El Protocolo de Internet versión 4 identifica los equipos conectados a Internet. Le permite identificar vulnerabilidades al monitorear si el equipo tiene puertos expuestos públicamente. IPv4 se compone de cuatro números, entre 0 y 255, separados por puntos.'
+label;Número IP;IP number;Número de IP
+binCreate;;;
+shortDesc;Monitora cartões através dos seis primeiros dígitos de identificação ;Tracks cards using the first six identification digits;Rastrea las tarjetas a través de los primeros seis dígitos de identificación
+title;Sobre ativos do tipo Bin;About Bin type assets;Acerca de los activos de tipo Bin
+description;'Monitore a surface, deep e dark web em busca de vazamento de informações de cartões de crédito de clientes e se antecipe à fraudes. São informados apenas os 4 a 6 primeiros dígitos de identificação do cartão. Eles identificam a bandeira e instituição emissora do cartão.';'Monitor the surface, deep and dark web for leaked customer credit card information and stay ahead of fraud. Only the first 4 to 6 digits of the card identification are informed. They identify the flag and institution issuing the card.';'Supervise la web superficial, profunda y oscura en busca de información filtrada de la tarjeta de crédito del cliente y manténgase a la vanguardia del fraude. Solo se informan los primeros 4 a 6 dígitos de la identificación de la tarjeta. Identifican la bandera e institución que expide la tarjeta.'
+label;Número Bin;Bin Number;Número de contenedor
+brandCreate;;;
+type;Marca;Brand;Marca
+shortDesc;Identifica menções à marca em busca de contextos maliciosos;Identifies brand mentions for malicious contexts;Identifica menciones de marca para contextos maliciosos
+title;Sobre ativos do tipo Marca;About brand assets;Acerca de los activos de la marca
+description;'Monitora a ocorrência de termos específicos na surface, deep e dark web. Podem ser informados o nome da marca, projeto ou produto, e quaisquer termos relacionados a serem monitorados: palavras-chave, sub-marcas, slogan e afins.';'Monitors the occurrence of specific terms on the surface, deep and dark web. The name of the brand, project or product can be informed, and any related terms to be monitored: keywords, sub-brands, slogan and the like.';'Supervisa la aparición de términos específicos en la web superficial, profunda y oscura. Se puede informar el nombre de la marca, proyecto o producto, y los términos relacionados a monitorear: palabras clave, submarcas, eslogan y similares.'
+placeholder;Marca e termos relacionados;Brand and related terms;Marca y términos relacionados
+domainCreate;;;
+type;Domínio;Domain;Dominio
+shortDesc;Monitora o domínio de sites e emails corporativos a partir da URL;Monitor website domain and corporate emails from URL;Supervise el dominio del sitio web y los correos electrónicos corporativos desde la URL
+title;Sobre ativos do tipo Domínio;About Domain type assets;Acerca de los activos de tipo de dominio
+description;'A partir da URL principal do domínio fornecido é possível monitorar a internet em busca de links maliciosos relacionados a campanhas de phishing, spam, malware e outras ameaças - além de endereços de email não autorizados utilizando seu domínio.';'From the main URL of the provided domain, it is possible to monitor the internet in search of malicious links related to phishing campaigns, spam, malware and other threats - in addition to unauthorized email addresses using your domain.';'Desde la URL principal del dominio provisto, es posible monitorear Internet en busca de enlaces maliciosos relacionados con campañas de phishing, spam, malware y otras amenazas, además de direcciones de correo electrónico no autorizadas que usan su dominio.'
+placeholder;exemplo.net.br;example.net.br;ejemplo.net.br
+vipCreate;;;
+shortDesc;Monitora a identidade de C-Levels e diretoria a partir de nome e emails;Monitors the identity of C-Levels and board from name and emails;Supervisa la identidad de los C-Levels y la junta a partir del nombre y los correos electrónicos
+title;Sobre ativos do tipo VIP;About VIP-type assets;Acerca de los activos de tipo VIP
+description;'Ativos que identificam C-Levels de organizações. A partir do nome e endereços de e-mail fornecidos, monitoramos vazamentos de credenciais e informações sigilosas, identificando ocorrências fraudulentas como spoofing e outras ameaças.';'Assets that identify C-Levels of organizations. From the name and email addresses provided, we monitor leaks of credentials and sensitive information, identifying fraudulent occurrences such as spoofing and other threats.';'Activos que identifican a los C-Levels de las organizaciones. A partir del nombre y las direcciones de correo electrónico proporcionados, monitoreamos las filtraciones de credenciales e información confidencial, identificando eventos fraudulentos como la suplantación de identidad y otras amenazas.'
+label;'Nome completo, email, telefone com DDD, CPF e outros (uma informação por vez)';'Full name, email, telephone with area code, CPF and others (one piece of information at a time)';'Nombre completo, correo electrónico, teléfono con código de área, CPF y otros (un dato a la vez)'
+placeholder;Preencher e clicar em incluir;Fill in and click on add;Complete y haga clic en agregar
+navbar;;;
+authEmail;Autenticado como;Authenticated as;Autenticado como
+profile;Meu perfil;My Profile;Mi perfil
+manageUser;Gerenciar usuários;Manage users;Administrar usuarios
+notification;Gerenciar notificações;Manage notifications;Administrar notificaciones
+sup;Suporte;Support;Soporte
+logout;Sair;Leave;Vete
+tickets;;;
+footerMenu;Quais as indicações de cada tipo de chamado?;What are the indications of each type of ticket?;¿Cuáles son las indicaciones de cada tipo de llamada?
+modalTitle;Novo Chamado;New Ticket;Nueva llamada
+suportCreate;;;
+name;Suporte;Support;Soporte
+category;Sistema;System;Sistema
+description;Solicite suporte descrevendo sua necessidade;Request support by describing your need;Solicite soporte describiendo su necesidad
+descriptionFull;'Solicite suporte a equipe de operação do Mantis, descrevendo de maneira detalhada sua dúvida ou necessidade para que possamos melhor atendê-lo';'Request support from the Mantis operation team, describing your question or need in detail so that we can better serve you';'Solicite soporte del equipo de operación de Mantis, describiendo su pregunta o necesidad en detalle para que podamos servirle mejor'
+title;Título do chamado de suporte;Support ticket title;Título de la sugerencia de mejora
+text;Solicitação do suporte;Support request;Solicitud de soporte
+sugestCreate;;;
+name;Sugerir Melhoria;Suggest Improvement;Sugerir mejora
+text;Solicitação de melhoria;Improvement request;Solicitud de mejora
+description;Envie ideias de melhorias e funcionalidades;Submit ideas for improvements and features;Envíe ideas para mejoras y funciones.
+descriptionFull;Contribua com suas ideais de melhorias e também de novas funcionalidades que gostaria de ver no Mantis. Seu feedback é valioso para melhorar a experiência de nossos usuários.;Contribute your ideas for improvements and also for new features you would like to see in Mantis. Your feedback is valuable to improve our users' experience.;Contribuya con sus ideas para mejoras y también para nuevas funciones que le gustaría ver en Mantis. Tus comentarios son valiosos para mejorar la experiencia de nuestros usuarios.
+title;Título da sugestão de melhoria;Title of improvement suggestion;Título de la sugerencia de mejora
+bugCreate;;;
+name;Reportar Bug;Report bug;Reportar un error
+description;Indique um problema encontrado no Mantis;Please report a problem found in Mantis;Por favor reporte un problema encontrado en Mantis
+descriptionFull;Indique a ocorrência de algum problema encontrado no Mantis para que nossos analistas possam avaliar e incluir as nescessárias ações de correção de backlog;Indicate the occurrence of any problem found in Mantis so that our analysts can evaluate and include the necessary backlog correction actions;Indicar la ocurrencia de cualquier problema encontrado en Mantis para que nuestros analistas puedan evaluar e incluir las acciones de corrección de backlog necesarias
+title;Título da ocorrência de bug;Bug occurrence title;Título de ocurrencia de error
+text;Solicitação de suporte;Support request;Solicitud de soporte
+takedownCreate;;;
+category;Gestão de Eventos;Event management;Gestión de eventos
+description;Solicitar derrubada de perfís ou domínios;Request takedown of profiles or domains;Solicitar eliminación de perfiles o dominios
+descriptionFull;Contribua com suas ideais de melhorias e também de novas funcionalidades que gostaria de ver no Mantis. Seu feedback é valioso para melhorar a experiência de nossos usuários.;Contribute your ideas for improvements and also for new features you would like to see in Mantis. Your feedback is valuable to improve our users' experience.;Contribuya con sus ideas para mejoras y también para nuevas funciones que le gustaría ver en Mantis. Tus comentarios son valiosos para mejorar la experiencia de nuestros usuarios.
+title;Título da sugestão de melhoria;Title of improvement suggestion;Título de la sugerencia de mejora
+text;Solicitação de melhoria;Improvement request;Solicitud de mejora
+createAsset;;;
+name;Criar Ativos;Create Assets;Crear activos
+category;Gestão de Ativos;Asset Management;Gestión de activos
+description;Adicione novos ativos para serem monitorados;Add new assets to be monitored;Agregar nuevos activos para ser monitoreados

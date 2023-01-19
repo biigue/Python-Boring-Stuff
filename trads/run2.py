@@ -26,7 +26,7 @@ def endof():
 
 for i in range(0, len(items)):
     if i > 0:
-        text = items[i].replace('\n', '').split(',')
+        text = items[i].replace('\n', '').split(';')
         if text[1] == '' and text[2] == '':
             if i > 1:
                 pt.write('},\n')
@@ -35,7 +35,7 @@ for i in range(0, len(items)):
             setAll(text[0])
         else:
             try:
-                next = items[i+1].replace('\n', '').split(',')
+                next = items[i+1].replace('\n', '').split(';')
                 if next[1] == '' and next[2] == '':
                     pt.write(f'\t"{text[0]}": "{text[1]}"\n')
                     en.write(f'\t"{text[0]}": "{text[2]}"\n')
